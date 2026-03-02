@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/apani/Documents/GitHub/Sprint_4/Content/Blueprint/CustomActor/MovableActor/BP_Tower.uasset",
+				"C:/Users/apani/Documents/GitHub/Sprint_4/Content/Blueprint/CustomActor/Projectile/BP_TowerProjectile.uasset",
+				"C:/Users/apani/Documents/GitHub/Sprint_4/Content/Blueprint/Player/BP_TopDownController.uasset",
 				"C:/Users/ulyss/Desktop/Epitech_Project/Epitech_Tek4_Project/Sprint_4/Content/Assets/low_poly_assets/cannon.uasset",
 				"C:/Users/ulyss/Desktop/Epitech_Project/Epitech_Tek4_Project/Sprint_4/Content/Assets/low_poly_assets/lpb_gradient.uasset",
 				"C:/Users/ulyss/Desktop/Epitech_Project/Epitech_Tek4_Project/Sprint_4/Content/Assets/low_poly_assets/GameLevel_present_fbx_BeerHouse.uasset",

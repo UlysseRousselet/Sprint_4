@@ -1,9 +1,13 @@
-Binaries
-DerivedDataCache
-Intermediate
-Saved
-.vscode
-.vs
+# Unreal Engine specific ignores
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio / IDE specific ignores
+.vscode/
+.vs/
 *.VC.db
 *.opensdf
 *.opendb
@@ -12,3 +16,7 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+
+# OS specific ignores
+.DS_Store
+Thumbs.db
