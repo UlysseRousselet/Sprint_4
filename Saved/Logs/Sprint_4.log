@@ -1255,3 +1255,1694 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.03-17.34.20:975][391]LogSlate: Window 'Editor Preferences' being destroyed
 [2026.03.03-17.34.20:981][391]LogSlate: Window 'Editor Preferences' being destroyed
 [2026.03.03-17.34.25:199][594]LogSlate: External Image Picker: DecompressImage failed
+[2026.03.03-17.34.59:023][278]LogSlate: Window 'Project Settings' being destroyed
+[2026.03.03-17.34.59:027][278]LogSlate: Window 'Project Settings' being destroyed
+[2026.03.03-17.35.03:309][488]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.03.03-17.35.15:516][215]LogSlate: Slate: Had to block on waiting for a draw buffer
+[2026.03.03-17.35.15:640][220]LogSlate: Slate: Had to block on waiting for a draw buffer
+[2026.03.03-17.35.47:677][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.03.03-17.35.47:681][103]LogStreaming: Display: FlushAsyncLoading(339): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.03-17.35.47:938][103]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2026.03.03-17.35.47:984][103]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MainMenu.MainMenu
+[2026.03.03-17.35.47:984][103]Cmd: MAP LOAD FILE="../../../../../../Users/apani/Documents/GitHub/Sprint_4/Content/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.03.03-17.35.47:999][103]LogWorld: UWorld::CleanupWorld for Village, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-17.35.47:999][103]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.03-17.35.47:999][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.35.48:018][103]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-17.35.48:021][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.03.03-17.35.48:023][103]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-17.35.48:024][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.35.48:043][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.03.03-17.35.48:062][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.03.03-17.35.48:082][103]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2026.03.03-17.35.48:082][103]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2026.03.03-17.35.48:566][103]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.03.03-17.35.48:566][103]LogNavigation: Warning: Recreating dtNavMesh instance RecastNavMesh-EdgePadding due to saved navmesh origin (X=50.000 Y=0.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2026.03.03-17.35.48:587][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.03.03-17.35.48:594][103]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.03-17.35.48:594][103]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,064ms to complete.
+[2026.03.03-17.35.48:674][104]LogNiagara: Compiling System NiagaraSystem /Game/VFX/NS_BirdFlying.NS_BirdFlying took 0.733922 sec (time since issued).
+[2026.03.03-17.35.48:720][104]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.03-17.35.56:430][545]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.03-17.35.56:435][545]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.03.03-17.35.56:435][545]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.03-17.35.56:441][545]LogOnline: OSS: Created online subsystem instance for: NULL
+[2026.03.03-17.35.56:441][545]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2026.03.03-17.35.56:441][545]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2026.03.03-17.35.56:464][545]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023121s)
+[2026.03.03-17.35.56:464][545]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.023211s)
+[2026.03.03-17.35.56:481][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.03.03-17.35.56:484][545]LogWindows: WindowsPlatformFeatures enabled
+[2026.03.03-17.35.56:492][545]LogStreaming: Display: FlushAsyncLoading(341): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.03-17.35.56:556][545]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2026.03.03-17.35.56:558][545]LogPlayLevel: PIE: World Init took: (0.002247s)
+[2026.03.03-17.35.56:558][545]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.03.03-17.35.56:558][545]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.03-17.35.56:558][545]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.03-17.35.56:558][545]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.03-17.35.56:558][545]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.03-17.35.56:558][545]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.03-17.35.56:558][545]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.03-17.35.56:558][545]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.03-17.35.56:558][545]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.03-17.35.56:558][545]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.03-17.35.56:558][545]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.03-17.35.56:558][545]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.03-17.35.56:558][545]LogAudio: Display: Audio Modulation Plugin: DefaultModulationPlugin
+[2026.03.03-17.35.56:561][545]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.03-17.35.56:564][545]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Speaker (Realtek(R) Audio)'
+[2026.03.03-17.35.56:564][545]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone Array (AMD Audio Device)'
+[2026.03.03-17.35.56:565][545]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Speaker (Realtek(R) Audio)'
+[2026.03.03-17.35.56:565][545]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone Array (AMD Audio Device)'
+[2026.03.03-17.35.56:565][545]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Speaker (Realtek(R) Audio)'
+[2026.03.03-17.35.56:566][545]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone Array (AMD Audio Device)'
+[2026.03.03-17.35.56:634][545]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2026.03.03-17.35.56:634][545]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.03-17.35.56:634][545]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.03-17.35.56:634][545]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.03-17.35.56:634][545]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.03.03-17.35.56:634][545]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.03.03-17.35.56:637][545]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.03.03-17.35.56:638][545]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.03.03-17.35.56:638][545]LogInit: FAudioDevice initialized with ID 2.
+[2026.03.03-17.35.56:638][545]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMenu'.
+[2026.03.03-17.35.56:638][545]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.03.03-17.35.56:639][545]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2026.03.03-17.35.56:643][545]LogLoad: Game class is 'BP_MainMenuGM_C'
+[2026.03.03-17.35.56:644][545]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2026.03.03-18.35.56
+[2026.03.03-17.35.56:645][545]LogWorld: Bringing up level for play took: 0.001511
+[2026.03.03-17.35.56:647][545]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2026.03.03-17.35.57:122][545]LogScript: Warning: Script Msg: External UI not supported by the current online subsystem
+[2026.03.03-17.35.57:123][545]LogScript: Warning: Script Msg called by: BP_MainMenuGM_C /Game/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.BP_MainMenuGM_C_0
+[2026.03.03-17.35.57:123][545]LogAudioModulation: Display: Parameter 'Cropout_GameParameter' not registered.  Registration forced via 'SoundControlBus 'Cropout_Music_Piano_Vol''.
+[2026.03.03-17.35.57:145][545]LogMetaSound: Display: Auto-Updating '/Game/Audio/MUSIC/MUS_EQDelay_MSP.MUS_EQDelay_MSP' node class 'UE.Stereo Delay.Audio (v1.0)': Interface change detected.
+[2026.03.03-17.35.57:146][545]LogMetaSound: Display: Auto-Updating '/Game/Audio/MUSIC/MUS_Main_MSS.MUS_Main_MSS' node class 'UE.Wave Player.Stereo': Newer version 'v1.1' found.
+[2026.03.03-17.35.57:146][545]LogMetaSound: Display: Auto-Updating '/Game/Audio/MUSIC/MUS_Main_MSS.MUS_Main_MSS' node class 'TriggerCompare.Clamp.Float (v1.0)': Interface change detected.
+[2026.03.03-17.35.57:146][545]LogMetaSound: Display: Auto-Updating '/Game/Audio/MUSIC/MUS_Main_MSS.MUS_Main_MSS' node class 'UE.TriggerOnThreshold.Float (v1.0)': Interface change detected.
+[2026.03.03-17.35.57:146][545]LogMetaSound: Display: Auto-Updating '/Game/Audio/MUSIC/MUS_Main_MSS.MUS_Main_MSS' node class 'UE.Trigger On Value Change.Float (v1.0)': Interface change detected.
+[2026.03.03-17.35.57:147][545]PIE: Server logged in
+[2026.03.03-17.35.57:149][545]PIE: Play in editor total start time 0,713 seconds.
+[2026.03.03-17.35.57:194][545]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.03-17.35.57:259][545]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_MainMenu_C_0]
+[2026.03.03-17.35.57:259][545]LogUIActionRouter: Display: [User 0] Focused desired target BTN_Continue
+[2026.03.03-17.36.00:972][764]LogMetaSound: Display: Auto-Updating '/Game/Audio/SFX/MS_UI_Hover.MS_UI_Hover' node class 'UE.Wave Player.Stereo': Newer version 'v1.1' found.
+[2026.03.03-17.36.03:915][941]LogDerivedDataCache: C:/Users/apani/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.067 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 930 files in 1606 folders with total size 17 MiB.
+[2026.03.03-17.36.14:232][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-17.36.14:232][558]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenu
+[2026.03.03-17.36.14:232][558]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.03-17.36.14:233][558]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-17.36.14:233][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.36.14:235][558]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.03-17.36.14:238][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.36.14:258][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-17.36.14:260][558]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.03.03-17.36.14:260][558]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2026.03.03-17.36.14:262][558]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2026.03.03-17.36.14:269][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.03.03-17.36.14:326][559]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2026.03.03-17.36.24:181][140]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu/UI_MainMenu.UI_MainMenu
+[2026.03.03-17.36.24:194][140]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2026.03.03-17.36.24:487][140]LogStreaming: Display: FlushAsyncLoading(347): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.03-17.36.25:457][140]LogSlate: Took 0.007696 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.03.03-17.36.25:468][140]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.03.03-17.36.25:507][141]LogSlate: Took 0.000878 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2026.03.03-17.36.56:208][862]LogSlate: Window 'Delete widgets' being destroyed
+[2026.03.03-17.36.59:261][959]LogSlate: Window 'Delete widgets' being destroyed
+[2026.03.03-17.37.00:011][  2]LogBlueprint: Compiling Blueprint '/Game/UI/MainMenu/UI_MainMenu.UI_MainMenu'
+[2026.03.03-17.37.00:017][  2]LogBlueprint: Warning: [AssetLog] C:\Users\apani\Documents\GitHub\Sprint_4\Content\UI\MainMenu\UI_MainMenu.uasset: [Compiler] On Clicked (BTN_Continue)  does not have a valid matching component!
+[2026.03.03-17.37.00:018][  2]LogBlueprint: Warning: [AssetLog] C:\Users\apani\Documents\GitHub\Sprint_4\Content\UI\MainMenu\UI_MainMenu.uasset: [Compiler] On Clicked (BTN_Donate)  does not have a valid matching component!
+[2026.03.03-17.37.00:088][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.03.03-17.37.24:434][331]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.03-17.37.24:539][331]LogFileHelpers: Saving Package: /Game/UI/MainMenu/UI_MainMenu
+[2026.03.03-17.37.24:539][331]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/MainMenu/UI_MainMenu] ([2] browsable assets)...
+[2026.03.03-17.37.24:543][331]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/MainMenu/UI_MainMenu.UI_MainMenu]
+[2026.03.03-17.37.24:543][331]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu/UI_MainMenu]
+[2026.03.03-17.37.24:543][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/UI_MainMenu" FILE="../../../../../../Users/apani/Documents/GitHub/Sprint_4/Content/UI/MainMenu/UI_MainMenu.uasset" SILENT=true
+[2026.03.03-17.37.24:566][331]LogSavePackage: Moving output files for package: /Game/UI/MainMenu/UI_MainMenu
+[2026.03.03-17.37.24:566][331]LogSavePackage: Moving '../../../../../../Users/apani/Documents/GitHub/Sprint_4/Saved/UI_MainMenuEA474FCB4B4E14FD4D4B1F864399A9E4.tmp' to '../../../../../../Users/apani/Documents/GitHub/Sprint_4/Content/UI/MainMenu/UI_MainMenu.uasset'
+[2026.03.03-17.37.24:579][331]LogFileHelpers: InternalPromptForCheckoutAndSave took 145.013 ms
+[2026.03.03-17.37.24:696][331]LogContentValidation: Enabled validators:
+[2026.03.03-17.37.24:696][331]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.03-17.37.24:696][331]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.03-17.37.24:696][331]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.03-17.37.24:696][331]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.03-17.37.24:696][331]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.03-17.37.24:696][331]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.03-17.37.24:696][331]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.03.03-17.37.24:696][331]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.03.03-17.37.24:697][331]AssetCheck: /Game/UI/MainMenu/UI_MainMenu Validating asset
+[2026.03.03-17.37.24:697][331]LogContentValidation: Validated asset counts for 2 validators:
+[2026.03.03-17.37.24:697][331]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.03.03-17.37.24:697][331]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.03.03-17.37.24:727][331]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/apani/Documents/GitHub/Sprint_4/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.03-17.37.25:541][380]LogBlueprint: Compiling Blueprint '/Game/UI/MainMenu/UI_MainMenu.UI_MainMenu'
+[2026.03.03-17.37.25:618][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.03.03-17.37.27:761][491]LogSlate: Window 'UI_MainMenu' being destroyed
+[2026.03.03-17.37.29:004][562]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.03-17.37.29:013][562]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.03.03-17.37.29:013][562]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.03-17.37.29:014][562]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2026.03.03-17.37.29:035][562]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022263s)
+[2026.03.03-17.37.29:035][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.022312s)
+[2026.03.03-17.37.29:064][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.03.03-17.37.29:068][562]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2026.03.03-17.37.29:070][562]LogPlayLevel: PIE: World Init took: (0.001794s)
+[2026.03.03-17.37.29:070][562]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.03.03-17.37.29:070][562]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.03-17.37.29:070][562]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.03-17.37.29:070][562]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.03-17.37.29:070][562]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.03-17.37.29:070][562]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.03-17.37.29:070][562]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.03-17.37.29:070][562]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.03-17.37.29:070][562]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.03-17.37.29:070][562]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.03-17.37.29:070][562]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.03-17.37.29:070][562]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.03-17.37.29:070][562]LogAudio: Display: Audio Modulation Plugin: DefaultModulationPlugin
+[2026.03.03-17.37.29:072][562]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.03-17.37.29:074][562]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Speaker (Realtek(R) Audio)'
+[2026.03.03-17.37.29:074][562]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone Array (AMD Audio Device)'
+[2026.03.03-17.37.29:075][562]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Speaker (Realtek(R) Audio)'
+[2026.03.03-17.37.29:075][562]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone Array (AMD Audio Device)'
+[2026.03.03-17.37.29:076][562]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Speaker (Realtek(R) Audio)'
+[2026.03.03-17.37.29:076][562]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone Array (AMD Audio Device)'
+[2026.03.03-17.37.29:144][562]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2026.03.03-17.37.29:145][562]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.03-17.37.29:145][562]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.03-17.37.29:145][562]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.03-17.37.29:145][562]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.03.03-17.37.29:145][562]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.03.03-17.37.29:147][562]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.03.03-17.37.29:147][562]LogInit: FAudioDevice initialized with ID 3.
+[2026.03.03-17.37.29:147][562]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.03.03-17.37.29:147][562]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainMenu'.
+[2026.03.03-17.37.29:147][562]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.03.03-17.37.29:148][562]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2026.03.03-17.37.29:152][562]LogLoad: Game class is 'BP_MainMenuGM_C'
+[2026.03.03-17.37.29:154][562]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2026.03.03-18.37.29
+[2026.03.03-17.37.29:154][562]LogWorld: Bringing up level for play took: 0.001618
+[2026.03.03-17.37.29:157][562]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2026.03.03-17.37.29:620][562]LogScript: Warning: Script Msg: External UI not supported by the current online subsystem
+[2026.03.03-17.37.29:621][562]LogScript: Warning: Script Msg called by: BP_MainMenuGM_C /Game/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.BP_MainMenuGM_C_0
+[2026.03.03-17.37.29:621][562]PIE: Server logged in
+[2026.03.03-17.37.29:622][562]PIE: Play in editor total start time 0,612 seconds.
+[2026.03.03-17.37.29:638][562]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_MainMenu_C_0]
+[2026.03.03-17.37.29:638][563]LogUIActionRouter: Display: [User 0] Leaf-most node [UI_MainMenu_C_0] did not set focus through desired methods, but the currently focused widget is acceptable. Doing nothing, but this widget should be updated.
+[2026.03.03-17.37.29:659][563]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.03-17.37.36:534][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-17.37.36:534][968]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenu
+[2026.03.03-17.37.36:534][968]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.03-17.37.36:534][968]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-17.37.36:535][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.37.36:536][968]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.03-17.37.36:542][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.37.36:570][968]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-17.37.36:570][968]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.03.03-17.37.36:571][968]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2026.03.03-17.37.36:572][968]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2026.03.03-17.37.36:578][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-17.37.36:581][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.03.03-17.37.36:642][969]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2026.03.03-17.37.37:497][ 20]LogEditorTransaction: Undo Delete current selection
+[2026.03.03-17.37.38:179][ 39]LogEditorTransaction: Undo Delete current selection
+[2026.03.03-17.37.41:270][218]LogEditorTransaction: Undo Delete current selection
+[2026.03.03-17.37.41:626][224]LogEditorTransaction: Undo Remove Widget
+[2026.03.03-17.37.43:597][332]LogEditorTransaction: Redo Remove Widget
+[2026.03.03-17.37.44:245][365]LogEditorTransaction: Undo Remove Widget
+[2026.03.03-17.37.46:205][477]LogEditorTransaction: Undo Remove Widget
+[2026.03.03-17.37.47:026][499]LogEditorTransaction: Undo Clicking on Elements
+[2026.03.03-17.38.05:725][620]LogBlueprint: Compiling Blueprint '/Game/UI/MainMenu/UI_MainMenu.UI_MainMenu'
+[2026.03.03-17.38.05:786][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.03.03-17.38.08:381][768]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.03-17.38.08:390][768]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.03.03-17.38.08:390][768]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.03-17.38.08:390][768]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2026.03.03-17.38.08:413][768]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022946s)
+[2026.03.03-17.38.08:413][768]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.022994s)
+[2026.03.03-17.38.08:440][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.03.03-17.38.08:449][768]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2026.03.03-17.38.08:450][768]LogPlayLevel: PIE: World Init took: (0.001815s)
+[2026.03.03-17.38.08:450][768]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.03.03-17.38.08:451][768]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.03-17.38.08:451][768]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.03-17.38.08:451][768]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.03-17.38.08:451][768]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.03-17.38.08:451][768]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.03-17.38.08:451][768]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.03-17.38.08:451][768]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.03-17.38.08:451][768]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.03-17.38.08:451][768]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.03-17.38.08:451][768]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.03-17.38.08:451][768]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.03-17.38.08:451][768]LogAudio: Display: Audio Modulation Plugin: DefaultModulationPlugin
+[2026.03.03-17.38.08:453][768]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.03-17.38.08:454][768]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Speaker (Realtek(R) Audio)'
+[2026.03.03-17.38.08:455][768]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone Array (AMD Audio Device)'
+[2026.03.03-17.38.08:455][768]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Speaker (Realtek(R) Audio)'
+[2026.03.03-17.38.08:455][768]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone Array (AMD Audio Device)'
+[2026.03.03-17.38.08:456][768]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Speaker (Realtek(R) Audio)'
+[2026.03.03-17.38.08:456][768]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone Array (AMD Audio Device)'
+[2026.03.03-17.38.08:524][768]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2026.03.03-17.38.08:524][768]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.03-17.38.08:524][768]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.03-17.38.08:524][768]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.03-17.38.08:524][768]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2026.03.03-17.38.08:524][768]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.03.03-17.38.08:527][768]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.03.03-17.38.08:527][768]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2026.03.03-17.38.08:527][768]LogInit: FAudioDevice initialized with ID 4.
+[2026.03.03-17.38.08:527][768]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainMenu'.
+[2026.03.03-17.38.08:527][768]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.03.03-17.38.08:527][768]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2026.03.03-17.38.08:531][768]LogLoad: Game class is 'BP_MainMenuGM_C'
+[2026.03.03-17.38.08:533][768]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2026.03.03-18.38.08
+[2026.03.03-17.38.08:533][768]LogWorld: Bringing up level for play took: 0.001534
+[2026.03.03-17.38.08:536][768]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2026.03.03-17.38.09:009][768]LogScript: Warning: Script Msg: External UI not supported by the current online subsystem
+[2026.03.03-17.38.09:009][768]LogScript: Warning: Script Msg called by: BP_MainMenuGM_C /Game/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.BP_MainMenuGM_C_0
+[2026.03.03-17.38.09:009][768]PIE: Server logged in
+[2026.03.03-17.38.09:011][768]PIE: Play in editor total start time 0,623 seconds.
+[2026.03.03-17.38.09:021][768]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_MainMenu_C_0]
+[2026.03.03-17.38.09:021][768]LogUIActionRouter: Display: [User 0] Focused desired target BTN_Continue
+[2026.03.03-17.38.09:047][769]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.03-17.38.14:925][119]LogBlueprint: Compiling Blueprint '/Game/UI/MainMenu/UI_MainMenu.UI_MainMenu'
+[2026.03.03-17.38.14:988][119]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2026.03.03-17.38.15:012][119]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.025 s
+[2026.03.03-17.38.15:012][119]LogOutputDevice: Error: === Handled ensure: ===
+[2026.03.03-17.38.15:012][119]LogOutputDevice: Error: 
+[2026.03.03-17.38.15:012][119]LogOutputDevice: Error: Ensure condition failed: ChildToRemoveIdx != INDEX_NONE  [File:D:\build\++UE5\Sync\Engine\Plugins\Runtime\CommonUI\Source\CommonUI\Private\Input\UIActionRouterTypes.cpp] [Line: 1343] 
+[2026.03.03-17.38.15:012][119]LogOutputDevice: Error: 
+[2026.03.03-17.38.15:012][119]LogOutputDevice: Error: Stack: 
+[2026.03.03-17.38.15:012][119]LogOutputDevice: Error: [Callstack] 0x000002abcbca4136 UnrealEditor-CommonUI.dll!UnknownFunction []
+[2026.03.03-17.38.15:012][119]LogOutputDevice: Error: [Callstack] 0x000002abcbc9c440 UnrealEditor-CommonUI.dll!UnknownFunction []
+[2026.03.03-17.38.15:012][119]LogOutputDevice: Error: [Callstack] 0x000002abcbbef161 UnrealEditor-CommonUI.dll!UnknownFunction []
+[2026.03.03-17.38.15:012][119]LogOutputDevice: Error: [Callstack] 0x00007ffd472d1659 UnrealEditor-UMG.dll!UnknownFunction []
+[2026.03.03-17.38.15:012][119]LogOutputDevice: Error: [Callstack] 0x00007ffd64975416 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2026.03.03-17.38.15:012][119]LogOutputDevice: Error: [Callstack] 0x00007ffd648f9eed UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2026.03.03-17.38.15:012][119]LogOutputDevice: Error: [Callstack] 0x00007ffd648447b0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2026.03.03-17.38.15:012][119]LogOutputDevice: Error: [Callstack] 0x00007ffd648c664d UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2026.03.03-17.38.15:013][119]LogOutputDevice: Error: [Callstack] 0x00007ffd6487a073 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2026.03.03-17.38.15:013][119]LogOutputDevice: Error: [Callstack] 0x00007ffd2c706067 UnrealEditor-Kismet.dll!UnknownFunction []
+[2026.03.03-17.38.15:013][119]LogOutputDevice: Error: [Callstack] 0x00007ffd3c988519 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2026.03.03-17.38.15:013][119]LogOutputDevice: Error: [Callstack] 0x00007ffd2c834791 UnrealEditor-Kismet.dll!UnknownFunction []
+[2026.03.03-17.38.15:013][119]LogOutputDevice: Error: [Callstack] 0x00007ffd20c9453d UnrealEditor-UMGEditor.dll!UnknownFunction []
+[2026.03.03-17.38.15:013][119]LogOutputDevice: Error: [Callstack] 0x00007ffd2c852d1c UnrealEditor-Kismet.dll!UnknownFunction []
+[2026.03.03-17.38.15:013][119]LogOutputDevice: Error: [Callstack] 0x00007ffd66051325 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.03.03-17.38.15:013][119]LogOutputDevice: Error: [Callstack] 0x00007ffd660514ae UnrealEditor-Slate.dll!UnknownFunction []
+[2026.03.03-17.38.15:013][119]LogOutputDevice: Error: [Callstack] 0x00007ffd661ba4f3 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.03.03-17.38.15:013][119]LogOutputDevice: Error: [Callstack] 0x00007ffd6619eb0a UnrealEditor-Slate.dll!UnknownFunction []
+[2026.03.03-17.38.15:013][119]LogOutputDevice: Error: [Callstack] 0x00007ffd66275b0b UnrealEditor-Slate.dll!UnknownFunction []
+[2026.03.03-17.38.15:013][119]LogOutputDevice: Error: [Callstack] 0x00007ffd662b0d96 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.03.03-17.38.15:013][119]LogOutputDevice: Error: [Callstack] 0x00007ffd65f9ff59 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.03.03-17.38.15:013][119]LogOutputDevice: Error: [Callstack] 0x00007ffd65fe9199 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.03.03-17.38.15:013][119]LogOutputDevice: Error: [Callstack] 0x00007ffd65fdbd5a UnrealEditor-Slate.dll!UnknownFunction []
+[2026.03.03-17.38.15:013][119]LogOutputDevice: Error: [Callstack] 0x00007ffd65fd33e9 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.03.03-17.38.15:013][119]LogOutputDevice: Error: [Callstack] 0x00007ffd92d3ea86 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2026.03.03-17.38.15:013][119]LogOutputDevice: Error: [Callstack] 0x00007ffd92d2683a UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2026.03.03-17.38.15:013][119]LogOutputDevice: Error: [Callstack] 0x00007ffd92d41ecf UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2026.03.03-17.38.15:013][119]LogOutputDevice: Error: [Callstack] 0x00007ffd92d200e1 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2026.03.03-17.38.15:013][119]LogOutputDevice: Error: [Callstack] 0x00007ffdd96e6b46 USER32.dll!UnknownFunction []
+[2026.03.03-17.38.15:013][119]LogOutputDevice: Error: [Callstack] 0x00007ffdd96e459d USER32.dll!UnknownFunction []
+[2026.03.03-17.38.15:013][119]LogOutputDevice: Error: [Callstack] 0x00007ffd92d64a19 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2026.03.03-17.38.15:013][119]LogOutputDevice: Error: [Callstack] 0x00007ff64bbe47d9 UnrealEditor.exe!UnknownFunction []
+[2026.03.03-17.38.15:013][119]LogOutputDevice: Error: [Callstack] 0x00007ff64bc00bfe UnrealEditor.exe!UnknownFunction []
+[2026.03.03-17.38.15:013][119]LogOutputDevice: Error: [Callstack] 0x00007ff64bc00d0a UnrealEditor.exe!UnknownFunction []
+[2026.03.03-17.38.15:013][119]LogOutputDevice: Error: [Callstack] 0x00007ff64bc04590 UnrealEditor.exe!UnknownFunction []
+[2026.03.03-17.38.15:013][119]LogOutputDevice: Error: [Callstack] 0x00007ff64bc15be4 UnrealEditor.exe!UnknownFunction []
+[2026.03.03-17.38.15:013][119]LogOutputDevice: Error: [Callstack] 0x00007ff64bc18f9a UnrealEditor.exe!UnknownFunction []
+[2026.03.03-17.38.15:013][119]LogOutputDevice: Error: [Callstack] 0x00007ffdd919e8d7 KERNEL32.DLL!UnknownFunction []
+[2026.03.03-17.38.15:013][119]LogOutputDevice: Error: [Callstack] 0x00007ffdda90c40c ntdll.dll!UnknownFunction []
+[2026.03.03-17.38.15:013][119]LogOutputDevice: Error: 
+[2026.03.03-17.38.15:018][119]LogStats:                SubmitErrorReport -  0.000 s
+[2026.03.03-17.38.15:862][119]LogStats:                    SendNewReport -  0.845 s
+[2026.03.03-17.38.15:862][119]LogStats:             FDebug::EnsureFailed -  0.875 s
+[2026.03.03-17.38.15:865][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.03.03-17.38.15:893][119]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.03-17.38.15:893][119]LogFileHelpers: Saving Package: /Game/UI/MainMenu/UI_MainMenu
+[2026.03.03-17.38.15:893][119]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/MainMenu/UI_MainMenu] ([2] browsable assets)...
+[2026.03.03-17.38.15:899][119]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/MainMenu/UI_MainMenu.UI_MainMenu]
+[2026.03.03-17.38.15:899][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu/UI_MainMenu]
+[2026.03.03-17.38.15:899][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/UI_MainMenu" FILE="../../../../../../Users/apani/Documents/GitHub/Sprint_4/Content/UI/MainMenu/UI_MainMenu.uasset" SILENT=true
+[2026.03.03-17.38.15:929][119]LogSavePackage: Moving output files for package: /Game/UI/MainMenu/UI_MainMenu
+[2026.03.03-17.38.15:929][119]LogSavePackage: Moving '../../../../../../Users/apani/Documents/GitHub/Sprint_4/Saved/UI_MainMenu4524E5164F13C49E20A21A89887AE6AA.tmp' to '../../../../../../Users/apani/Documents/GitHub/Sprint_4/Content/UI/MainMenu/UI_MainMenu.uasset'
+[2026.03.03-17.38.15:930][119]LogFileHelpers: InternalPromptForCheckoutAndSave took 36.698 ms (total: 181.712 ms)
+[2026.03.03-17.38.15:935][119]LogContentValidation: Enabled validators:
+[2026.03.03-17.38.15:935][119]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.03-17.38.15:935][119]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.03-17.38.15:935][119]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.03-17.38.15:935][119]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.03-17.38.15:935][119]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.03-17.38.15:935][119]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.03-17.38.15:935][119]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.03.03-17.38.15:935][119]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.03.03-17.38.15:936][119]AssetCheck: /Game/UI/MainMenu/UI_MainMenu Validating asset
+[2026.03.03-17.38.15:937][119]LogContentValidation: Validated asset counts for 2 validators:
+[2026.03.03-17.38.15:937][119]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.03.03-17.38.15:937][119]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.03.03-17.38.17:315][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-17.38.17:315][194]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenu
+[2026.03.03-17.38.17:315][194]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.03-17.38.17:316][194]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-17.38.17:316][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.38.17:318][194]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.03-17.38.17:323][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.38.17:350][194]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-17.38.17:351][194]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.03.03-17.38.17:351][194]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2026.03.03-17.38.17:354][194]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2026.03.03-17.38.17:360][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-17.38.17:366][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.03.03-17.38.17:396][195]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2026.03.03-17.38.19:180][288]LogBlueprint: Compiling Blueprint '/Game/UI/MainMenu/UI_MainMenu.UI_MainMenu'
+[2026.03.03-17.38.19:252][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.03.03-17.38.22:514][479]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.03-17.38.22:524][479]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.03.03-17.38.22:524][479]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.03-17.38.22:524][479]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2026.03.03-17.38.22:546][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022940s)
+[2026.03.03-17.38.22:546][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.022987s)
+[2026.03.03-17.38.22:574][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.03.03-17.38.22:578][479]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2026.03.03-17.38.22:580][479]LogPlayLevel: PIE: World Init took: (0.001907s)
+[2026.03.03-17.38.22:580][479]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.03.03-17.38.22:580][479]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.03-17.38.22:580][479]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.03-17.38.22:580][479]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.03-17.38.22:580][479]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.03-17.38.22:580][479]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.03-17.38.22:580][479]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.03-17.38.22:580][479]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.03-17.38.22:580][479]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.03-17.38.22:580][479]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.03-17.38.22:580][479]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.03-17.38.22:580][479]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.03-17.38.22:580][479]LogAudio: Display: Audio Modulation Plugin: DefaultModulationPlugin
+[2026.03.03-17.38.22:582][479]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.03-17.38.22:584][479]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Speaker (Realtek(R) Audio)'
+[2026.03.03-17.38.22:584][479]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone Array (AMD Audio Device)'
+[2026.03.03-17.38.22:585][479]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Speaker (Realtek(R) Audio)'
+[2026.03.03-17.38.22:585][479]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone Array (AMD Audio Device)'
+[2026.03.03-17.38.22:585][479]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Speaker (Realtek(R) Audio)'
+[2026.03.03-17.38.22:586][479]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone Array (AMD Audio Device)'
+[2026.03.03-17.38.22:654][479]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2026.03.03-17.38.22:654][479]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.03-17.38.22:654][479]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.03-17.38.22:654][479]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.03-17.38.22:654][479]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.03.03-17.38.22:654][479]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.03.03-17.38.22:657][479]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.03.03-17.38.22:657][479]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.03.03-17.38.22:657][479]LogInit: FAudioDevice initialized with ID 5.
+[2026.03.03-17.38.22:657][479]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainMenu'.
+[2026.03.03-17.38.22:657][479]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.03.03-17.38.22:657][479]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2026.03.03-17.38.22:661][479]LogLoad: Game class is 'BP_MainMenuGM_C'
+[2026.03.03-17.38.22:663][479]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2026.03.03-18.38.22
+[2026.03.03-17.38.22:663][479]LogWorld: Bringing up level for play took: 0.001487
+[2026.03.03-17.38.22:665][479]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2026.03.03-17.38.23:134][479]LogScript: Warning: Script Msg: External UI not supported by the current online subsystem
+[2026.03.03-17.38.23:134][479]LogScript: Warning: Script Msg called by: BP_MainMenuGM_C /Game/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.BP_MainMenuGM_C_0
+[2026.03.03-17.38.23:135][479]PIE: Server logged in
+[2026.03.03-17.38.23:136][479]PIE: Play in editor total start time 0,616 seconds.
+[2026.03.03-17.38.23:158][479]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_MainMenu_C_0]
+[2026.03.03-17.38.23:158][479]LogUIActionRouter: Display: [User 0] Focused desired target BTN_Continue
+[2026.03.03-17.38.23:178][480]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.03-17.38.24:622][565]LogMetaSound: Display: Auto-Updating '/Game/Audio/SFX/MS_UI_Select.MS_UI_Select' node class 'UE.Wave Player.Stereo': Newer version 'v1.1' found.
+[2026.03.03-17.38.24:740][572]LogStreaming: Display: FlushAsyncLoading(509): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.03-17.38.24:744][572]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_Layer_Menu_C_0]
+[2026.03.03-17.38.24:744][572]LogUIActionRouter: Display: [User 0] No focus target for leaf-most node [UI_Layer_Menu_C_0], and the widget isn't focusable - focusing the game viewport.
+[2026.03.03-17.38.24:945][584]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_Prompt_C_0]
+[2026.03.03-17.38.24:945][584]LogUIActionRouter: Display: [User 0] Focused desired target BTN_Neg
+[2026.03.03-17.38.28:256][783]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_Layer_Menu_C_0]
+[2026.03.03-17.38.28:256][783]LogUIActionRouter: Display: [User 0] No focus target for leaf-most node [UI_Layer_Menu_C_0], and the widget isn't focusable - focusing the game viewport.
+[2026.03.03-17.38.28:461][795]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_MainMenu_C_0]
+[2026.03.03-17.38.28:461][795]LogUIActionRouter: Display: [User 0] Focused AutoRestoreTarget UI_MainMenu [InternalRootButtonBase(CommonButtonBase.cpp(275))]
+[2026.03.03-17.38.29:356][849]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Village"
+[2026.03.03-17.38.29:356][849]LogNet: Browse: /Game/Village
+[2026.03.03-17.38.29:356][849]LogLoad: LoadMap: /Game/Village
+[2026.03.03-17.38.29:356][849]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenu
+[2026.03.03-17.38.29:357][849]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.03-17.38.29:358][849]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-17.38.29:358][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.38.29:432][849]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-17.38.29:435][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.03.03-17.38.29:438][849]LogStreaming: Display: FlushAsyncLoading(510): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.03-17.38.29:480][849]LogAudio: Display: Audio Device (ID: 5) registered with world 'Village'.
+[2026.03.03-17.38.29:480][849]LogChaosDD: Creating Chaos Debug Draw Scene for world Village
+[2026.03.03-17.38.29:481][849]LogPlayLevel: PIE: World Init took: (0.001886s)
+[2026.03.03-17.38.29:481][849]LogLoad: Game class is 'BP_GM_C'
+[2026.03.03-17.38.30:025][849]LogWorld: Bringing World /Game/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2026.03.03-18.38.30
+[2026.03.03-17.38.30:025][849]LogWorld: Bringing up level for play took: 0.543964
+[2026.03.03-17.38.30:027][849]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.03.03-17.38.30:538][849]LogViewport: Display: Player bShowMouseCursor Changed, True -> False
+[2026.03.03-17.38.30:538][849]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.03.03-17.38.30:539][849]LogLoad: Took 1.182544 seconds to LoadMap(/Game/Village)
+[2026.03.03-17.38.30:539][849]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Village
+[2026.03.03-17.38.30:553][849]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.03-17.38.30:568][850]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.38.30:568][850]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.38.30:570][850]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.38.30:570][850]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.38.30:571][850]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.38.30:571][850]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.38.30:852][864]LogMetaSound: Display: Auto-Updating '/Game/Audio/SFX/Characters/MS_MonoArray.MS_MonoArray' node class 'UE.Wave Player.Mono': Newer version 'v1.1' found.
+[2026.03.03-17.38.30:852][864]LogMetaSound: Display: Auto-Updating '/Game/Audio/SFX/Characters/MS_MonoArray.MS_MonoArray' node class 'Array.Random Get.WaveAsset:Array': Newer version 'v1.1' found.
+[2026.03.03-17.38.37:028][233]LogNiagara: Compiling System NiagaraSystem /Game/VFX/NS_Sleepy.NS_Sleepy took 0.046121 sec (time since issued).
+[2026.03.03-17.38.39:461][379]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2026.03.03-17.38.46:385][793]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-17.38.46:385][793]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Village
+[2026.03.03-17.38.46:386][793]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.03-17.38.46:387][793]LogWorld: UWorld::CleanupWorld for Village, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-17.38.46:388][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.38.46:390][793]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.03-17.38.46:396][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.38.46:427][793]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-17.38.46:427][793]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.03.03-17.38.46:427][793]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2026.03.03-17.38.46:429][793]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2026.03.03-17.38.46:438][793]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-17.38.46:444][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.03.03-17.38.46:481][794]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2026.03.03-17.38.49:133][951]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.03-17.38.49:141][951]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.03.03-17.38.49:141][951]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.03-17.38.49:141][951]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2026.03.03-17.38.49:164][951]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022693s)
+[2026.03.03-17.38.49:164][951]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.022736s)
+[2026.03.03-17.38.49:190][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.03.03-17.38.49:194][951]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2026.03.03-17.38.49:195][951]LogPlayLevel: PIE: World Init took: (0.001779s)
+[2026.03.03-17.38.49:195][951]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.03.03-17.38.49:195][951]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.03-17.38.49:195][951]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.03-17.38.49:195][951]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.03-17.38.49:195][951]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.03-17.38.49:195][951]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.03-17.38.49:195][951]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.03-17.38.49:195][951]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.03-17.38.49:195][951]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.03-17.38.49:195][951]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.03-17.38.49:195][951]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.03-17.38.49:195][951]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.03-17.38.49:195][951]LogAudio: Display: Audio Modulation Plugin: DefaultModulationPlugin
+[2026.03.03-17.38.49:198][951]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.03-17.38.49:200][951]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Speaker (Realtek(R) Audio)'
+[2026.03.03-17.38.49:200][951]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone Array (AMD Audio Device)'
+[2026.03.03-17.38.49:200][951]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Speaker (Realtek(R) Audio)'
+[2026.03.03-17.38.49:201][951]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone Array (AMD Audio Device)'
+[2026.03.03-17.38.49:201][951]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Speaker (Realtek(R) Audio)'
+[2026.03.03-17.38.49:201][951]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone Array (AMD Audio Device)'
+[2026.03.03-17.38.49:270][951]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2026.03.03-17.38.49:271][951]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.03-17.38.49:271][951]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.03-17.38.49:271][951]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.03-17.38.49:271][951]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.03.03-17.38.49:271][951]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.03.03-17.38.49:273][951]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.03.03-17.38.49:273][951]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.03.03-17.38.49:273][951]LogInit: FAudioDevice initialized with ID 6.
+[2026.03.03-17.38.49:273][951]LogAudio: Display: Audio Device (ID: 6) registered with world 'MainMenu'.
+[2026.03.03-17.38.49:273][951]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.03.03-17.38.49:273][951]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2026.03.03-17.38.49:282][951]LogLoad: Game class is 'BP_MainMenuGM_C'
+[2026.03.03-17.38.49:285][951]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2026.03.03-18.38.49
+[2026.03.03-17.38.49:285][951]LogWorld: Bringing up level for play took: 0.001632
+[2026.03.03-17.38.49:287][951]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2026.03.03-17.38.49:764][951]LogScript: Warning: Script Msg: External UI not supported by the current online subsystem
+[2026.03.03-17.38.49:764][951]LogScript: Warning: Script Msg called by: BP_MainMenuGM_C /Game/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.BP_MainMenuGM_C_0
+[2026.03.03-17.38.49:765][951]PIE: Server logged in
+[2026.03.03-17.38.49:766][951]PIE: Play in editor total start time 0,628 seconds.
+[2026.03.03-17.38.49:781][951]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_MainMenu_C_0]
+[2026.03.03-17.38.49:781][951]LogUIActionRouter: Display: [User 0] Focused desired target BTN_Continue
+[2026.03.03-17.38.49:802][952]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.03-17.38.54:844][251]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Village"
+[2026.03.03-17.38.54:844][251]LogNet: Browse: /Game/Village
+[2026.03.03-17.38.54:844][251]LogLoad: LoadMap: /Game/Village
+[2026.03.03-17.38.54:844][251]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenu
+[2026.03.03-17.38.54:844][251]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.03-17.38.54:846][251]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-17.38.54:846][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.38.54:874][251]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-17.38.54:876][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.03.03-17.38.54:879][251]LogStreaming: Display: FlushAsyncLoading(514): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.03-17.38.54:918][251]LogAudio: Display: Audio Device (ID: 6) registered with world 'Village'.
+[2026.03.03-17.38.54:918][251]LogChaosDD: Creating Chaos Debug Draw Scene for world Village
+[2026.03.03-17.38.54:920][251]LogPlayLevel: PIE: World Init took: (0.002032s)
+[2026.03.03-17.38.54:920][251]LogLoad: Game class is 'BP_GM_C'
+[2026.03.03-17.38.55:465][251]LogWorld: Bringing World /Game/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2026.03.03-18.38.55
+[2026.03.03-17.38.55:465][251]LogWorld: Bringing up level for play took: 0.545559
+[2026.03.03-17.38.55:466][251]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.03.03-17.38.55:991][251]LogViewport: Display: Player bShowMouseCursor Changed, True -> False
+[2026.03.03-17.38.55:991][251]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.03.03-17.38.55:992][251]LogLoad: Took 1.146948 seconds to LoadMap(/Game/Village)
+[2026.03.03-17.38.55:992][251]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Village
+[2026.03.03-17.38.56:024][251]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.38.56:024][251]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.38.56:024][251]LogBlueprintUserMessages: [BP_Villager_C_0] ERROR: Failed to Load Job
+[2026.03.03-17.38.56:025][251]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.38.56:025][251]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.38.56:025][251]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.38.56:025][251]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.38.56:026][251]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.38.56:026][251]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.38.56:036][251]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.03-17.38.57:447][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-17.38.57:447][334]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Village
+[2026.03.03-17.38.57:447][334]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.03-17.38.57:448][334]LogWorld: UWorld::CleanupWorld for Village, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-17.38.57:449][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.38.57:450][334]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.03-17.38.57:456][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.38.57:484][334]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-17.38.57:484][334]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.03.03-17.38.57:485][334]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2026.03.03-17.38.57:487][334]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2026.03.03-17.38.57:494][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-17.38.57:497][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.03.03-17.38.57:523][335]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2026.03.03-17.38.59:308][441]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.03-17.38.59:317][441]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.03.03-17.38.59:317][441]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.03-17.38.59:317][441]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2026.03.03-17.38.59:341][441]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022951s)
+[2026.03.03-17.38.59:341][441]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.022993s)
+[2026.03.03-17.38.59:368][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.03.03-17.38.59:371][441]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2026.03.03-17.38.59:373][441]LogPlayLevel: PIE: World Init took: (0.001686s)
+[2026.03.03-17.38.59:373][441]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.03.03-17.38.59:373][441]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.03-17.38.59:373][441]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.03-17.38.59:373][441]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.03-17.38.59:373][441]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.03-17.38.59:373][441]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.03-17.38.59:373][441]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.03-17.38.59:373][441]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.03-17.38.59:373][441]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.03-17.38.59:373][441]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.03-17.38.59:373][441]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.03-17.38.59:373][441]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.03-17.38.59:373][441]LogAudio: Display: Audio Modulation Plugin: DefaultModulationPlugin
+[2026.03.03-17.38.59:375][441]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.03-17.38.59:377][441]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Speaker (Realtek(R) Audio)'
+[2026.03.03-17.38.59:378][441]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone Array (AMD Audio Device)'
+[2026.03.03-17.38.59:378][441]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Speaker (Realtek(R) Audio)'
+[2026.03.03-17.38.59:378][441]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone Array (AMD Audio Device)'
+[2026.03.03-17.38.59:379][441]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Speaker (Realtek(R) Audio)'
+[2026.03.03-17.38.59:379][441]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone Array (AMD Audio Device)'
+[2026.03.03-17.38.59:446][441]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2026.03.03-17.38.59:447][441]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.03-17.38.59:447][441]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.03-17.38.59:447][441]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.03-17.38.59:447][441]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.03.03-17.38.59:447][441]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.03.03-17.38.59:450][441]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.03.03-17.38.59:450][441]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.03.03-17.38.59:450][441]LogInit: FAudioDevice initialized with ID 7.
+[2026.03.03-17.38.59:450][441]LogAudio: Display: Audio Device (ID: 7) registered with world 'MainMenu'.
+[2026.03.03-17.38.59:450][441]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.03.03-17.38.59:450][441]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2026.03.03-17.38.59:454][441]LogLoad: Game class is 'BP_MainMenuGM_C'
+[2026.03.03-17.38.59:456][441]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2026.03.03-18.38.59
+[2026.03.03-17.38.59:456][441]LogWorld: Bringing up level for play took: 0.001493
+[2026.03.03-17.38.59:459][441]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2026.03.03-17.38.59:933][441]LogScript: Warning: Script Msg: External UI not supported by the current online subsystem
+[2026.03.03-17.38.59:933][441]LogScript: Warning: Script Msg called by: BP_MainMenuGM_C /Game/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.BP_MainMenuGM_C_0
+[2026.03.03-17.38.59:933][441]PIE: Server logged in
+[2026.03.03-17.38.59:934][441]PIE: Play in editor total start time 0,62 seconds.
+[2026.03.03-17.38.59:946][441]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_MainMenu_C_0]
+[2026.03.03-17.38.59:946][441]LogUIActionRouter: Display: [User 0] Focused desired target BTN_Continue
+[2026.03.03-17.38.59:969][442]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.03-17.39.04:614][719]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_Layer_Menu_C_0]
+[2026.03.03-17.39.04:614][719]LogUIActionRouter: Display: [User 0] No focus target for leaf-most node [UI_Layer_Menu_C_0], and the widget isn't focusable - focusing the game viewport.
+[2026.03.03-17.39.04:802][730]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_Prompt_C_0]
+[2026.03.03-17.39.04:802][730]LogUIActionRouter: Display: [User 0] Focused desired target BTN_Neg
+[2026.03.03-17.39.05:847][793]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_Layer_Menu_C_0]
+[2026.03.03-17.39.05:847][793]LogUIActionRouter: Display: [User 0] No focus target for leaf-most node [UI_Layer_Menu_C_0], and the widget isn't focusable - focusing the game viewport.
+[2026.03.03-17.39.06:036][804]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_MainMenu_C_0]
+[2026.03.03-17.39.06:036][804]LogUIActionRouter: Display: [User 0] Focused AutoRestoreTarget UI_MainMenu [InternalRootButtonBase(CommonButtonBase.cpp(275))]
+[2026.03.03-17.39.06:947][859]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Village"
+[2026.03.03-17.39.06:947][859]LogNet: Browse: /Game/Village
+[2026.03.03-17.39.06:947][859]LogLoad: LoadMap: /Game/Village
+[2026.03.03-17.39.06:947][859]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenu
+[2026.03.03-17.39.06:947][859]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.03-17.39.06:948][859]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-17.39.06:949][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.39.06:978][859]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-17.39.06:980][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.03.03-17.39.06:982][859]LogStreaming: Display: FlushAsyncLoading(515): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.03-17.39.07:023][859]LogAudio: Display: Audio Device (ID: 7) registered with world 'Village'.
+[2026.03.03-17.39.07:023][859]LogChaosDD: Creating Chaos Debug Draw Scene for world Village
+[2026.03.03-17.39.07:026][859]LogPlayLevel: PIE: World Init took: (0.001833s)
+[2026.03.03-17.39.07:026][859]LogLoad: Game class is 'BP_GM_C'
+[2026.03.03-17.39.07:556][859]LogWorld: Bringing World /Game/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2026.03.03-18.39.07
+[2026.03.03-17.39.07:556][859]LogWorld: Bringing up level for play took: 0.530078
+[2026.03.03-17.39.07:557][859]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.03.03-17.39.08:127][859]LogViewport: Display: Player bShowMouseCursor Changed, True -> False
+[2026.03.03-17.39.08:127][859]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.03.03-17.39.08:128][859]LogLoad: Took 1.180633 seconds to LoadMap(/Game/Village)
+[2026.03.03-17.39.08:128][859]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Village
+[2026.03.03-17.39.08:140][859]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.03-17.39.08:153][860]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.39.08:153][860]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.39.08:154][860]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.39.08:154][860]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.39.08:155][860]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.39.08:155][860]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.39.25:848][921]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2026.03.03-17.39.28:481][ 79]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2026.03.03-17.39.28:687][ 91]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_Pause_C_0]
+[2026.03.03-17.39.28:687][ 91]LogUIActionRouter: Display: [User 0] Focused desired target BTN_Resume
+[2026.03.03-17.39.29:848][161]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Village"
+[2026.03.03-17.39.29:848][161]LogNet: Browse: /Game/Village
+[2026.03.03-17.39.29:848][161]LogLoad: LoadMap: /Game/Village
+[2026.03.03-17.39.29:848][161]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Village
+[2026.03.03-17.39.29:848][161]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.03-17.39.29:850][161]LogWorld: UWorld::CleanupWorld for Village, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-17.39.29:851][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.39.29:927][161]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-17.39.29:930][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.03.03-17.39.29:935][161]LogStreaming: Display: FlushAsyncLoading(516): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.03-17.39.29:976][161]LogAudio: Display: Audio Device (ID: 7) registered with world 'Village'.
+[2026.03.03-17.39.29:976][161]LogChaosDD: Creating Chaos Debug Draw Scene for world Village
+[2026.03.03-17.39.29:978][161]LogPlayLevel: PIE: World Init took: (0.001967s)
+[2026.03.03-17.39.29:978][161]LogLoad: Game class is 'BP_GM_C'
+[2026.03.03-17.39.30:527][161]LogWorld: Bringing World /Game/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2026.03.03-18.39.30
+[2026.03.03-17.39.30:527][161]LogWorld: Bringing up level for play took: 0.549180
+[2026.03.03-17.39.30:528][161]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.03.03-17.39.31:062][161]LogViewport: Display: Player bShowMouseCursor Changed, True -> False
+[2026.03.03-17.39.31:062][161]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CaptureDuringMouseDown
+[2026.03.03-17.39.31:063][161]LogLoad: Took 1.215516 seconds to LoadMap(/Game/Village)
+[2026.03.03-17.39.31:063][161]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Village
+[2026.03.03-17.39.31:075][161]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.03-17.39.31:088][162]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.39.31:088][162]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.39.31:089][162]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.39.31:089][162]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.39.31:090][162]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.39.31:090][162]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.39.35:598][432]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2026.03.03-17.39.35:803][444]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_Pause_C_0]
+[2026.03.03-17.39.35:803][444]LogUIActionRouter: Display: [User 0] Focused desired target BTN_Resume
+[2026.03.03-17.39.37:181][527]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/MainMenu"
+[2026.03.03-17.39.37:181][527]LogNet: Browse: /Game/MainMenu
+[2026.03.03-17.39.37:181][527]LogLoad: LoadMap: /Game/MainMenu
+[2026.03.03-17.39.37:181][527]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Village
+[2026.03.03-17.39.37:181][527]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.03-17.39.37:183][527]LogWorld: UWorld::CleanupWorld for Village, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-17.39.37:185][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.39.37:238][527]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-17.39.37:241][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.03.03-17.39.37:245][527]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2026.03.03-17.39.37:268][527]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022722s)
+[2026.03.03-17.39.37:268][527]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.022795s)
+[2026.03.03-17.39.37:268][527]LogAudio: Display: Audio Device (ID: 7) registered with world 'MainMenu'.
+[2026.03.03-17.39.37:268][527]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2026.03.03-17.39.37:270][527]LogPlayLevel: PIE: World Init took: (0.001798s)
+[2026.03.03-17.39.37:270][527]LogLoad: Game class is 'BP_MainMenuGM_C'
+[2026.03.03-17.39.37:271][527]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2026.03.03-18.39.37
+[2026.03.03-17.39.37:271][527]LogWorld: Bringing up level for play took: 0.001426
+[2026.03.03-17.39.37:272][527]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.03.03-17.39.37:752][527]LogScript: Warning: Script Msg: External UI not supported by the current online subsystem
+[2026.03.03-17.39.37:752][527]LogScript: Warning: Script Msg called by: BP_MainMenuGM_C /Game/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.BP_MainMenuGM_C_0
+[2026.03.03-17.39.37:752][527]LogLoad: Took 0.570444 seconds to LoadMap(/Game/UEDPIE_0_MainMenu)
+[2026.03.03-17.39.37:752][527]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/UEDPIE_0_MainMenu
+[2026.03.03-17.39.37:757][527]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.03-17.39.37:759][527]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_MainMenu_C_0]
+[2026.03.03-17.39.37:759][527]LogUIActionRouter: Display: [User 0] Focused desired target BTN_Continue
+[2026.03.03-17.39.41:438][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-17.39.41:438][747]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenu
+[2026.03.03-17.39.41:438][747]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.03-17.39.41:438][747]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-17.39.41:439][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.39.41:440][747]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.03-17.39.41:447][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.39.41:473][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-17.39.41:475][747]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.03.03-17.39.41:475][747]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2026.03.03-17.39.41:477][747]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2026.03.03-17.39.41:487][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.03.03-17.39.41:517][748]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2026.03.03-17.39.47:310][  9]LogSlate: Window 'Delete widgets' being destroyed
+[2026.03.03-17.39.50:548][ 83]LogSlate: Window 'Delete widgets' being destroyed
+[2026.03.03-17.39.50:605][ 84]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 343.607635
+[2026.03.03-17.39.50:837][ 98]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.03-17.39.50:837][ 98]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 343.823151, Update Interval: 323.196503
+[2026.03.03-17.39.52:250][183]LogBlueprint: Compiling Blueprint '/Game/UI/MainMenu/UI_MainMenu.UI_MainMenu'
+[2026.03.03-17.39.52:254][183]LogBlueprint: Warning: [AssetLog] C:\Users\apani\Documents\GitHub\Sprint_4\Content\UI\MainMenu\UI_MainMenu.uasset: [Compiler] On Clicked (BTN_Continue)  does not have a valid matching component!
+[2026.03.03-17.39.52:255][183]LogBlueprint: Warning: [AssetLog] C:\Users\apani\Documents\GitHub\Sprint_4\Content\UI\MainMenu\UI_MainMenu.uasset: [Compiler] On Clicked (BTN_Donate)  does not have a valid matching component!
+[2026.03.03-17.39.52:306][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.03.03-17.39.53:690][255]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.03-17.39.53:699][255]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.03.03-17.39.53:699][255]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.03-17.39.53:700][255]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2026.03.03-17.39.53:723][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023603s)
+[2026.03.03-17.39.53:723][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.023650s)
+[2026.03.03-17.39.53:752][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.03.03-17.39.53:757][255]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2026.03.03-17.39.53:758][255]LogPlayLevel: PIE: World Init took: (0.001945s)
+[2026.03.03-17.39.53:758][255]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.03.03-17.39.53:758][255]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.03-17.39.53:758][255]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.03-17.39.53:758][255]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.03-17.39.53:758][255]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.03-17.39.53:758][255]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.03-17.39.53:758][255]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.03-17.39.53:758][255]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.03-17.39.53:758][255]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.03-17.39.53:758][255]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.03-17.39.53:758][255]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.03-17.39.53:758][255]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.03-17.39.53:758][255]LogAudio: Display: Audio Modulation Plugin: DefaultModulationPlugin
+[2026.03.03-17.39.53:761][255]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.03-17.39.53:763][255]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Speaker (Realtek(R) Audio)'
+[2026.03.03-17.39.53:763][255]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone Array (AMD Audio Device)'
+[2026.03.03-17.39.53:763][255]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Speaker (Realtek(R) Audio)'
+[2026.03.03-17.39.53:764][255]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone Array (AMD Audio Device)'
+[2026.03.03-17.39.53:764][255]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Speaker (Realtek(R) Audio)'
+[2026.03.03-17.39.53:764][255]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone Array (AMD Audio Device)'
+[2026.03.03-17.39.53:831][255]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2026.03.03-17.39.53:832][255]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.03-17.39.53:832][255]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.03-17.39.53:832][255]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.03-17.39.53:832][255]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2026.03.03-17.39.53:832][255]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.03.03-17.39.53:835][255]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.03.03-17.39.53:835][255]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2026.03.03-17.39.53:835][255]LogInit: FAudioDevice initialized with ID 8.
+[2026.03.03-17.39.53:835][255]LogAudio: Display: Audio Device (ID: 8) registered with world 'MainMenu'.
+[2026.03.03-17.39.53:836][255]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.03.03-17.39.53:836][255]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2026.03.03-17.39.53:840][255]LogLoad: Game class is 'BP_MainMenuGM_C'
+[2026.03.03-17.39.53:841][255]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2026.03.03-18.39.53
+[2026.03.03-17.39.53:842][255]LogWorld: Bringing up level for play took: 0.001475
+[2026.03.03-17.39.53:844][255]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2026.03.03-17.39.54:314][255]LogScript: Warning: Script Msg: External UI not supported by the current online subsystem
+[2026.03.03-17.39.54:314][255]LogScript: Warning: Script Msg called by: BP_MainMenuGM_C /Game/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.BP_MainMenuGM_C_0
+[2026.03.03-17.39.54:314][255]PIE: Server logged in
+[2026.03.03-17.39.54:316][255]PIE: Play in editor total start time 0,62 seconds.
+[2026.03.03-17.39.54:331][255]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_MainMenu_C_0]
+[2026.03.03-17.39.54:331][256]LogUIActionRouter: Display: [User 0] Leaf-most node [UI_MainMenu_C_0] did not set focus through desired methods, but the currently focused widget is acceptable. Doing nothing, but this widget should be updated.
+[2026.03.03-17.39.54:353][256]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.03-17.39.57:548][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-17.39.57:548][443]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenu
+[2026.03.03-17.39.57:548][443]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.03-17.39.57:548][443]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-17.39.57:549][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.39.57:550][443]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.03-17.39.57:556][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.39.57:583][443]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-17.39.57:583][443]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.03.03-17.39.57:583][443]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2026.03.03-17.39.57:586][443]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2026.03.03-17.39.57:592][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-17.39.57:595][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.03.03-17.39.57:636][444]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2026.03.03-17.40.53:776][776]LogEditorTransaction: Undo Remove Widget
+[2026.03.03-17.40.55:111][831]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.03-17.40.55:244][831]LogFileHelpers: Saving Package: /Game/UI/MainMenu/UI_MainMenu
+[2026.03.03-17.40.55:244][831]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/MainMenu/UI_MainMenu] ([2] browsable assets)...
+[2026.03.03-17.40.55:248][831]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/MainMenu/UI_MainMenu.UI_MainMenu]
+[2026.03.03-17.40.55:248][831]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu/UI_MainMenu]
+[2026.03.03-17.40.55:248][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/UI_MainMenu" FILE="../../../../../../Users/apani/Documents/GitHub/Sprint_4/Content/UI/MainMenu/UI_MainMenu.uasset" SILENT=true
+[2026.03.03-17.40.55:274][831]LogSavePackage: Moving output files for package: /Game/UI/MainMenu/UI_MainMenu
+[2026.03.03-17.40.55:274][831]LogSavePackage: Moving '../../../../../../Users/apani/Documents/GitHub/Sprint_4/Saved/UI_MainMenu9A21D6674B4464001EC8049783598909.tmp' to '../../../../../../Users/apani/Documents/GitHub/Sprint_4/Content/UI/MainMenu/UI_MainMenu.uasset'
+[2026.03.03-17.40.55:289][831]LogFileHelpers: InternalPromptForCheckoutAndSave took 178.331 ms (total: 360.044 ms)
+[2026.03.03-17.40.55:413][831]LogContentValidation: Enabled validators:
+[2026.03.03-17.40.55:414][831]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.03-17.40.55:414][831]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.03-17.40.55:414][831]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.03-17.40.55:414][831]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.03-17.40.55:414][831]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.03-17.40.55:414][831]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.03-17.40.55:414][831]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.03.03-17.40.55:414][831]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.03.03-17.40.55:415][831]AssetCheck: /Game/UI/MainMenu/UI_MainMenu Validating asset
+[2026.03.03-17.40.55:415][831]LogContentValidation: Validated asset counts for 2 validators:
+[2026.03.03-17.40.55:415][831]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.03.03-17.40.55:415][831]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.03.03-17.40.56:667][906]LogBlueprint: Compiling Blueprint '/Game/UI/MainMenu/UI_MainMenu.UI_MainMenu'
+[2026.03.03-17.40.56:673][906]LogBlueprint: Warning: [AssetLog] C:\Users\apani\Documents\GitHub\Sprint_4\Content\UI\MainMenu\UI_MainMenu.uasset: [Compiler] On Clicked (BTN_Continue)  does not have a valid matching component!
+[2026.03.03-17.40.56:773][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.03.03-17.40.57:928][960]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.03-17.40.57:937][960]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.03.03-17.40.57:937][960]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.03-17.40.57:937][960]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2026.03.03-17.40.57:960][960]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022295s)
+[2026.03.03-17.40.57:960][960]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.022337s)
+[2026.03.03-17.40.57:988][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.03.03-17.40.57:992][960]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2026.03.03-17.40.57:994][960]LogPlayLevel: PIE: World Init took: (0.001899s)
+[2026.03.03-17.40.57:994][960]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.03.03-17.40.57:994][960]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.03-17.40.57:994][960]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.03-17.40.57:994][960]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.03-17.40.57:994][960]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.03-17.40.57:994][960]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.03-17.40.57:994][960]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.03-17.40.57:994][960]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.03-17.40.57:994][960]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.03-17.40.57:994][960]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.03-17.40.57:994][960]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.03-17.40.57:994][960]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.03-17.40.57:994][960]LogAudio: Display: Audio Modulation Plugin: DefaultModulationPlugin
+[2026.03.03-17.40.57:997][960]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.03-17.40.57:999][960]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Speaker (Realtek(R) Audio)'
+[2026.03.03-17.40.57:999][960]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone Array (AMD Audio Device)'
+[2026.03.03-17.40.58:000][960]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Speaker (Realtek(R) Audio)'
+[2026.03.03-17.40.58:000][960]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone Array (AMD Audio Device)'
+[2026.03.03-17.40.58:000][960]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Speaker (Realtek(R) Audio)'
+[2026.03.03-17.40.58:001][960]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone Array (AMD Audio Device)'
+[2026.03.03-17.40.58:068][960]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2026.03.03-17.40.58:069][960]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.03-17.40.58:069][960]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.03-17.40.58:069][960]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.03-17.40.58:069][960]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2026.03.03-17.40.58:069][960]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.03.03-17.40.58:071][960]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.03.03-17.40.58:071][960]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2026.03.03-17.40.58:071][960]LogInit: FAudioDevice initialized with ID 9.
+[2026.03.03-17.40.58:071][960]LogAudio: Display: Audio Device (ID: 9) registered with world 'MainMenu'.
+[2026.03.03-17.40.58:071][960]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.03.03-17.40.58:072][960]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2026.03.03-17.40.58:075][960]LogLoad: Game class is 'BP_MainMenuGM_C'
+[2026.03.03-17.40.58:077][960]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2026.03.03-18.40.58
+[2026.03.03-17.40.58:077][960]LogWorld: Bringing up level for play took: 0.001554
+[2026.03.03-17.40.58:079][960]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2026.03.03-17.40.58:557][960]LogScript: Warning: Script Msg: External UI not supported by the current online subsystem
+[2026.03.03-17.40.58:557][960]LogScript: Warning: Script Msg called by: BP_MainMenuGM_C /Game/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.BP_MainMenuGM_C_0
+[2026.03.03-17.40.58:558][960]PIE: Server logged in
+[2026.03.03-17.40.58:559][960]PIE: Play in editor total start time 0,625 seconds.
+[2026.03.03-17.40.58:585][960]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_MainMenu_C_0]
+[2026.03.03-17.40.58:585][960]LogUIActionRouter: Display: [User 0] Leaf-most node [UI_MainMenu_C_0] did not set focus through desired methods, but the currently focused widget is acceptable. Doing nothing, but this widget should be updated.
+[2026.03.03-17.40.58:596][961]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.03-17.41.04:132][291]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_Layer_Menu_C_0]
+[2026.03.03-17.41.04:132][291]LogUIActionRouter: Display: [User 0] No focus target for leaf-most node [UI_Layer_Menu_C_0], and the widget isn't focusable - focusing the game viewport.
+[2026.03.03-17.41.04:321][302]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_Prompt_C_0]
+[2026.03.03-17.41.04:321][302]LogUIActionRouter: Display: [User 0] Focused desired target BTN_Neg
+[2026.03.03-17.41.05:215][356]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_Layer_Menu_C_0]
+[2026.03.03-17.41.05:215][356]LogUIActionRouter: Display: [User 0] No focus target for leaf-most node [UI_Layer_Menu_C_0], and the widget isn't focusable - focusing the game viewport.
+[2026.03.03-17.41.05:419][368]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetDesiredFocusTarget_ReturnValue in not an UClass
+	UI_MainMenu_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_7.UI_Layer_Menu_C_0.WidgetTree_0.UI_MainMenu_C_0
+	Function /Game/UI/MainMenu/UI_MainMenu.UI_MainMenu_C:ExecuteUbergraph_UI_MainMenu:0441
+[2026.03.03-17.41.05:419][368]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetDesiredFocusTarget_ReturnValue in not an UClass". Node:  Set Focus Graph:  EventGraph Function:  Execute Ubergraph UI Main Menu Blueprint:  UI_MainMenu
+[2026.03.03-17.41.05:419][368]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_MainMenu_C_0]
+[2026.03.03-17.41.05:419][368]LogUIActionRouter: Display: [User 0] Focused AutoRestoreTarget UI_MainMenu [InternalRootButtonBase(CommonButtonBase.cpp(275))]
+[2026.03.03-17.41.06:315][422]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Village"
+[2026.03.03-17.41.06:315][422]LogNet: Browse: /Game/Village
+[2026.03.03-17.41.06:315][422]LogLoad: LoadMap: /Game/Village
+[2026.03.03-17.41.06:315][422]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenu
+[2026.03.03-17.41.06:315][422]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.03-17.41.06:316][422]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-17.41.06:317][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.41.06:346][422]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-17.41.06:349][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.03.03-17.41.06:351][422]LogStreaming: Display: FlushAsyncLoading(517): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.03-17.41.06:391][422]LogAudio: Display: Audio Device (ID: 9) registered with world 'Village'.
+[2026.03.03-17.41.06:392][422]LogChaosDD: Creating Chaos Debug Draw Scene for world Village
+[2026.03.03-17.41.06:393][422]LogPlayLevel: PIE: World Init took: (0.001864s)
+[2026.03.03-17.41.06:393][422]LogLoad: Game class is 'BP_GM_C'
+[2026.03.03-17.41.06:964][422]LogWorld: Bringing World /Game/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2026.03.03-18.41.06
+[2026.03.03-17.41.06:965][422]LogWorld: Bringing up level for play took: 0.571631
+[2026.03.03-17.41.06:966][422]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.03.03-17.41.07:486][422]LogViewport: Display: Player bShowMouseCursor Changed, True -> False
+[2026.03.03-17.41.07:486][422]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.03.03-17.41.07:487][422]LogLoad: Took 1.171910 seconds to LoadMap(/Game/Village)
+[2026.03.03-17.41.07:488][422]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Village
+[2026.03.03-17.41.07:501][422]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.03-17.41.07:513][423]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.41.07:513][423]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.41.07:514][423]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.41.07:514][423]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.41.07:515][423]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.41.07:515][423]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.41.11:069][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-17.41.11:069][633]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Village
+[2026.03.03-17.41.11:070][633]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.03-17.41.11:071][633]LogWorld: UWorld::CleanupWorld for Village, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-17.41.11:072][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.41.11:073][633]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.03-17.41.11:079][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.41.11:109][633]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-17.41.11:109][633]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.03.03-17.41.11:109][633]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2026.03.03-17.41.11:111][633]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2026.03.03-17.41.11:118][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-17.41.11:122][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.03.03-17.41.11:316][634]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2026.03.03-17.41.13:559][757]LogSlate: Window 'Message Log' being destroyed
+[2026.03.03-17.41.13:567][757]LogSlate: Window 'Message Log' being destroyed
+[2026.03.03-17.41.24:903][410]LogBlueprint: Compiling Blueprint '/Game/UI/MainMenu/UI_MainMenu.UI_MainMenu'
+[2026.03.03-17.41.24:979][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.03.03-17.41.35:180][  8]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.03-17.41.35:297][  8]LogFileHelpers: Saving Package: /Game/UI/MainMenu/UI_MainMenu
+[2026.03.03-17.41.35:297][  8]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/MainMenu/UI_MainMenu] ([2] browsable assets)...
+[2026.03.03-17.41.35:301][  8]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/MainMenu/UI_MainMenu.UI_MainMenu]
+[2026.03.03-17.41.35:301][  8]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu/UI_MainMenu]
+[2026.03.03-17.41.35:301][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/UI_MainMenu" FILE="../../../../../../Users/apani/Documents/GitHub/Sprint_4/Content/UI/MainMenu/UI_MainMenu.uasset" SILENT=true
+[2026.03.03-17.41.35:325][  8]LogSavePackage: Moving output files for package: /Game/UI/MainMenu/UI_MainMenu
+[2026.03.03-17.41.35:325][  8]LogSavePackage: Moving '../../../../../../Users/apani/Documents/GitHub/Sprint_4/Saved/UI_MainMenuF41CD16D4CDA0E302D38F6839999E477.tmp' to '../../../../../../Users/apani/Documents/GitHub/Sprint_4/Content/UI/MainMenu/UI_MainMenu.uasset'
+[2026.03.03-17.41.35:337][  8]LogFileHelpers: InternalPromptForCheckoutAndSave took 156.127 ms (total: 516.171 ms)
+[2026.03.03-17.41.35:454][  8]LogContentValidation: Enabled validators:
+[2026.03.03-17.41.35:454][  8]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.03-17.41.35:454][  8]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.03-17.41.35:454][  8]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.03-17.41.35:454][  8]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.03-17.41.35:454][  8]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.03-17.41.35:454][  8]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.03-17.41.35:454][  8]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.03.03-17.41.35:454][  8]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.03.03-17.41.35:455][  8]AssetCheck: /Game/UI/MainMenu/UI_MainMenu Validating asset
+[2026.03.03-17.41.35:455][  8]LogContentValidation: Validated asset counts for 2 validators:
+[2026.03.03-17.41.35:455][  8]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.03.03-17.41.35:455][  8]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.03.03-17.41.36:126][ 48]LogBlueprint: Compiling Blueprint '/Game/UI/MainMenu/UI_MainMenu.UI_MainMenu'
+[2026.03.03-17.41.36:182][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.03.03-17.41.39:886][256]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.03-17.41.39:896][256]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.03.03-17.41.39:896][256]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.03-17.41.39:896][256]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2026.03.03-17.41.39:919][256]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022903s)
+[2026.03.03-17.41.39:919][256]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.022949s)
+[2026.03.03-17.41.39:948][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.03.03-17.41.39:956][256]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2026.03.03-17.41.39:958][256]LogPlayLevel: PIE: World Init took: (0.001844s)
+[2026.03.03-17.41.39:958][256]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.03.03-17.41.39:958][256]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.03-17.41.39:958][256]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.03-17.41.39:958][256]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.03-17.41.39:958][256]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.03-17.41.39:958][256]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.03-17.41.39:958][256]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.03-17.41.39:958][256]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.03-17.41.39:958][256]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.03-17.41.39:958][256]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.03-17.41.39:958][256]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.03-17.41.39:958][256]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.03-17.41.39:958][256]LogAudio: Display: Audio Modulation Plugin: DefaultModulationPlugin
+[2026.03.03-17.41.39:960][256]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.03-17.41.39:962][256]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Speaker (Realtek(R) Audio)'
+[2026.03.03-17.41.39:962][256]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone Array (AMD Audio Device)'
+[2026.03.03-17.41.39:963][256]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Speaker (Realtek(R) Audio)'
+[2026.03.03-17.41.39:963][256]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone Array (AMD Audio Device)'
+[2026.03.03-17.41.39:964][256]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Speaker (Realtek(R) Audio)'
+[2026.03.03-17.41.39:964][256]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone Array (AMD Audio Device)'
+[2026.03.03-17.41.40:031][256]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2026.03.03-17.41.40:032][256]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.03-17.41.40:032][256]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.03-17.41.40:032][256]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.03-17.41.40:032][256]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.03.03-17.41.40:032][256]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.03.03-17.41.40:035][256]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.03.03-17.41.40:035][256]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.03.03-17.41.40:035][256]LogInit: FAudioDevice initialized with ID 10.
+[2026.03.03-17.41.40:035][256]LogAudio: Display: Audio Device (ID: 10) registered with world 'MainMenu'.
+[2026.03.03-17.41.40:035][256]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.03.03-17.41.40:035][256]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2026.03.03-17.41.40:039][256]LogLoad: Game class is 'BP_MainMenuGM_C'
+[2026.03.03-17.41.40:040][256]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2026.03.03-18.41.40
+[2026.03.03-17.41.40:041][256]LogWorld: Bringing up level for play took: 0.001412
+[2026.03.03-17.41.40:044][256]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2026.03.03-17.41.40:511][256]LogScript: Warning: Script Msg: External UI not supported by the current online subsystem
+[2026.03.03-17.41.40:511][256]LogScript: Warning: Script Msg called by: BP_MainMenuGM_C /Game/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.BP_MainMenuGM_C_0
+[2026.03.03-17.41.40:511][256]PIE: Server logged in
+[2026.03.03-17.41.40:513][256]PIE: Play in editor total start time 0,621 seconds.
+[2026.03.03-17.41.40:528][256]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_MainMenu_C_0]
+[2026.03.03-17.41.40:528][256]LogUIActionRouter: Display: [User 0] Leaf-most node [UI_MainMenu_C_0] did not set focus through desired methods, but the currently focused widget is acceptable. Doing nothing, but this widget should be updated.
+[2026.03.03-17.41.40:559][257]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.03-17.41.41:251][296]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_Layer_Menu_C_0]
+[2026.03.03-17.41.41:251][296]LogUIActionRouter: Display: [User 0] No focus target for leaf-most node [UI_Layer_Menu_C_0], and the widget isn't focusable - focusing the game viewport.
+[2026.03.03-17.41.41:455][308]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_Prompt_C_0]
+[2026.03.03-17.41.41:455][308]LogUIActionRouter: Display: [User 0] Focused desired target BTN_Neg
+[2026.03.03-17.41.43:300][419]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_Layer_Menu_C_0]
+[2026.03.03-17.41.43:300][419]LogUIActionRouter: Display: [User 0] No focus target for leaf-most node [UI_Layer_Menu_C_0], and the widget isn't focusable - focusing the game viewport.
+[2026.03.03-17.41.43:488][430]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetDesiredFocusTarget_ReturnValue in not an UClass
+	UI_MainMenu_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_8.UI_Layer_Menu_C_0.WidgetTree_0.UI_MainMenu_C_0
+	Function /Game/UI/MainMenu/UI_MainMenu.UI_MainMenu_C:ExecuteUbergraph_UI_MainMenu:0ADB
+[2026.03.03-17.41.43:488][430]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetDesiredFocusTarget_ReturnValue in not an UClass". Node:  Set Focus Graph:  EventGraph Function:  Execute Ubergraph UI Main Menu Blueprint:  UI_MainMenu
+[2026.03.03-17.41.43:488][430]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_MainMenu_C_0]
+[2026.03.03-17.41.43:489][430]LogUIActionRouter: Display: [User 0] Focused AutoRestoreTarget UI_MainMenu [InternalRootButtonBase(CommonButtonBase.cpp(275))]
+[2026.03.03-17.41.44:217][474]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_Layer_Menu_C_0]
+[2026.03.03-17.41.44:217][474]LogUIActionRouter: Display: [User 0] No focus target for leaf-most node [UI_Layer_Menu_C_0], and the widget isn't focusable - focusing the game viewport.
+[2026.03.03-17.41.44:406][485]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_Prompt_C_0]
+[2026.03.03-17.41.44:407][485]LogUIActionRouter: Display: [User 0] Focused desired target BTN_Neg
+[2026.03.03-17.41.44:833][511]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_Layer_Menu_C_0]
+[2026.03.03-17.41.44:834][511]LogUIActionRouter: Display: [User 0] No focus target for leaf-most node [UI_Layer_Menu_C_0], and the widget isn't focusable - focusing the game viewport.
+[2026.03.03-17.41.45:039][523]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetDesiredFocusTarget_ReturnValue in not an UClass
+	UI_MainMenu_C /Engine/Transient.UnrealEdEngine_0:BP_GI_C_8.UI_Layer_Menu_C_0.WidgetTree_0.UI_MainMenu_C_0
+	Function /Game/UI/MainMenu/UI_MainMenu.UI_MainMenu_C:ExecuteUbergraph_UI_MainMenu:0ADB
+[2026.03.03-17.41.45:039][523]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetDesiredFocusTarget_ReturnValue in not an UClass". Node:  Set Focus Graph:  EventGraph Function:  Execute Ubergraph UI Main Menu Blueprint:  UI_MainMenu
+[2026.03.03-17.41.45:039][523]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_MainMenu_C_0]
+[2026.03.03-17.41.45:039][523]LogUIActionRouter: Display: [User 0] Focused AutoRestoreTarget UI_MainMenu [InternalRootButtonBase(CommonButtonBase.cpp(275))]
+[2026.03.03-17.41.45:934][577]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Village"
+[2026.03.03-17.41.45:934][577]LogNet: Browse: /Game/Village
+[2026.03.03-17.41.45:934][577]LogLoad: LoadMap: /Game/Village
+[2026.03.03-17.41.45:934][577]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenu
+[2026.03.03-17.41.45:934][577]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.03-17.41.45:936][577]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-17.41.45:936][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.41.45:997][577]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-17.41.46:000][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.03.03-17.41.46:002][577]LogStreaming: Display: FlushAsyncLoading(518): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.03-17.41.46:045][577]LogAudio: Display: Audio Device (ID: 10) registered with world 'Village'.
+[2026.03.03-17.41.46:045][577]LogChaosDD: Creating Chaos Debug Draw Scene for world Village
+[2026.03.03-17.41.46:047][577]LogPlayLevel: PIE: World Init took: (0.002100s)
+[2026.03.03-17.41.46:047][577]LogLoad: Game class is 'BP_GM_C'
+[2026.03.03-17.41.46:609][577]LogWorld: Bringing World /Game/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2026.03.03-18.41.46
+[2026.03.03-17.41.46:609][577]LogWorld: Bringing up level for play took: 0.561225
+[2026.03.03-17.41.46:610][577]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.03.03-17.41.47:144][577]LogViewport: Display: Player bShowMouseCursor Changed, True -> False
+[2026.03.03-17.41.47:144][577]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.03.03-17.41.47:145][577]LogLoad: Took 1.210885 seconds to LoadMap(/Game/Village)
+[2026.03.03-17.41.47:145][577]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Village
+[2026.03.03-17.41.47:160][577]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.03-17.41.47:174][578]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.41.47:174][578]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.41.47:175][578]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.41.47:176][578]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.41.47:176][578]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.41.47:176][578]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.41.48:440][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-17.41.48:440][647]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Village
+[2026.03.03-17.41.48:440][647]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.03-17.41.48:441][647]LogWorld: UWorld::CleanupWorld for Village, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-17.41.48:443][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.41.48:444][647]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.03-17.41.48:449][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.41.48:478][647]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-17.41.48:478][647]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.03.03-17.41.48:478][647]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2026.03.03-17.41.48:480][647]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2026.03.03-17.41.48:487][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-17.41.48:490][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.03.03-17.41.48:688][648]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2026.03.03-17.42.00:159][327]LogSlate: Window 'Message Log' being destroyed
+[2026.03.03-17.42.00:167][327]LogSlate: Window 'Message Log' being destroyed
+[2026.03.03-17.42.43:248][858]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.03-17.42.43:343][858]LogFileHelpers: Saving Package: /Game/UI/MainMenu/UI_MainMenu
+[2026.03.03-17.42.43:343][858]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/MainMenu/UI_MainMenu] ([2] browsable assets)...
+[2026.03.03-17.42.43:347][858]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/MainMenu/UI_MainMenu.UI_MainMenu]
+[2026.03.03-17.42.43:347][858]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu/UI_MainMenu]
+[2026.03.03-17.42.43:347][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/UI_MainMenu" FILE="../../../../../../Users/apani/Documents/GitHub/Sprint_4/Content/UI/MainMenu/UI_MainMenu.uasset" SILENT=true
+[2026.03.03-17.42.43:370][858]LogSavePackage: Moving output files for package: /Game/UI/MainMenu/UI_MainMenu
+[2026.03.03-17.42.43:371][858]LogSavePackage: Moving '../../../../../../Users/apani/Documents/GitHub/Sprint_4/Saved/UI_MainMenu804CE9064CB99D8EFE1826A070B1753D.tmp' to '../../../../../../Users/apani/Documents/GitHub/Sprint_4/Content/UI/MainMenu/UI_MainMenu.uasset'
+[2026.03.03-17.42.43:384][858]LogFileHelpers: InternalPromptForCheckoutAndSave took 135.490 ms (total: 651.662 ms)
+[2026.03.03-17.42.43:500][858]LogContentValidation: Enabled validators:
+[2026.03.03-17.42.43:501][858]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.03-17.42.43:501][858]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.03-17.42.43:501][858]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.03-17.42.43:501][858]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.03-17.42.43:501][858]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.03-17.42.43:501][858]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.03-17.42.43:501][858]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.03.03-17.42.43:501][858]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.03.03-17.42.43:502][858]AssetCheck: /Game/UI/MainMenu/UI_MainMenu Validating asset
+[2026.03.03-17.42.43:502][858]LogContentValidation: Validated asset counts for 2 validators:
+[2026.03.03-17.42.43:502][858]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.03.03-17.42.43:502][858]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.03.03-17.42.44:078][892]LogBlueprint: Compiling Blueprint '/Game/UI/MainMenu/UI_MainMenu.UI_MainMenu'
+[2026.03.03-17.42.44:134][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.03.03-17.42.46:161][999]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.03-17.42.46:170][999]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.03.03-17.42.46:170][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.03-17.42.46:171][999]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2026.03.03-17.42.46:194][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022909s)
+[2026.03.03-17.42.46:194][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.022955s)
+[2026.03.03-17.42.46:224][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.03.03-17.42.46:231][999]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2026.03.03-17.42.46:233][999]LogPlayLevel: PIE: World Init took: (0.001809s)
+[2026.03.03-17.42.46:233][999]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.03.03-17.42.46:233][999]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.03-17.42.46:233][999]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.03-17.42.46:233][999]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.03-17.42.46:233][999]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.03-17.42.46:233][999]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.03-17.42.46:233][999]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.03-17.42.46:233][999]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.03-17.42.46:233][999]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.03-17.42.46:233][999]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.03-17.42.46:233][999]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.03-17.42.46:233][999]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.03-17.42.46:233][999]LogAudio: Display: Audio Modulation Plugin: DefaultModulationPlugin
+[2026.03.03-17.42.46:236][999]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.03-17.42.46:238][999]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Speaker (Realtek(R) Audio)'
+[2026.03.03-17.42.46:238][999]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone Array (AMD Audio Device)'
+[2026.03.03-17.42.46:239][999]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Speaker (Realtek(R) Audio)'
+[2026.03.03-17.42.46:239][999]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone Array (AMD Audio Device)'
+[2026.03.03-17.42.46:239][999]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Speaker (Realtek(R) Audio)'
+[2026.03.03-17.42.46:241][999]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone Array (AMD Audio Device)'
+[2026.03.03-17.42.46:308][999]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2026.03.03-17.42.46:308][999]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.03-17.42.46:308][999]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.03-17.42.46:308][999]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.03-17.42.46:308][999]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2026.03.03-17.42.46:308][999]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2026.03.03-17.42.46:311][999]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2026.03.03-17.42.46:311][999]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2026.03.03-17.42.46:311][999]LogInit: FAudioDevice initialized with ID 11.
+[2026.03.03-17.42.46:311][999]LogAudio: Display: Audio Device (ID: 11) registered with world 'MainMenu'.
+[2026.03.03-17.42.46:311][999]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2026.03.03-17.42.46:312][999]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2026.03.03-17.42.46:316][999]LogLoad: Game class is 'BP_MainMenuGM_C'
+[2026.03.03-17.42.46:317][999]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2026.03.03-18.42.46
+[2026.03.03-17.42.46:317][999]LogWorld: Bringing up level for play took: 0.001572
+[2026.03.03-17.42.46:320][999]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2026.03.03-17.42.46:787][999]LogScript: Warning: Script Msg: External UI not supported by the current online subsystem
+[2026.03.03-17.42.46:787][999]LogScript: Warning: Script Msg called by: BP_MainMenuGM_C /Game/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.BP_MainMenuGM_C_0
+[2026.03.03-17.42.46:787][999]PIE: Server logged in
+[2026.03.03-17.42.46:790][999]PIE: Play in editor total start time 0,622 seconds.
+[2026.03.03-17.42.46:804][999]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_MainMenu_C_0]
+[2026.03.03-17.42.46:804][999]LogUIActionRouter: Display: [User 0] Leaf-most node [UI_MainMenu_C_0] did not set focus through desired methods, but the currently focused widget is acceptable. Doing nothing, but this widget should be updated.
+[2026.03.03-17.42.46:826][  0]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.03-17.42.48:553][102]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Village"
+[2026.03.03-17.42.48:554][102]LogNet: Browse: /Game/Village
+[2026.03.03-17.42.48:554][102]LogLoad: LoadMap: /Game/Village
+[2026.03.03-17.42.48:554][102]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenu
+[2026.03.03-17.42.48:554][102]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.03-17.42.48:555][102]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-17.42.48:555][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.42.48:618][102]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-17.42.48:622][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.03.03-17.42.48:625][102]LogStreaming: Display: FlushAsyncLoading(519): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.03-17.42.48:665][102]LogAudio: Display: Audio Device (ID: 11) registered with world 'Village'.
+[2026.03.03-17.42.48:665][102]LogChaosDD: Creating Chaos Debug Draw Scene for world Village
+[2026.03.03-17.42.48:667][102]LogPlayLevel: PIE: World Init took: (0.001824s)
+[2026.03.03-17.42.48:667][102]LogLoad: Game class is 'BP_GM_C'
+[2026.03.03-17.42.49:193][102]LogWorld: Bringing World /Game/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2026.03.03-18.42.49
+[2026.03.03-17.42.49:193][102]LogWorld: Bringing up level for play took: 0.525578
+[2026.03.03-17.42.49:194][102]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.03.03-17.42.49:728][102]LogViewport: Display: Player bShowMouseCursor Changed, True -> False
+[2026.03.03-17.42.49:728][102]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.03.03-17.42.49:729][102]LogLoad: Took 1.174845 seconds to LoadMap(/Game/Village)
+[2026.03.03-17.42.49:729][102]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Village
+[2026.03.03-17.42.49:741][102]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.03-17.42.49:756][103]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.42.49:756][103]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.42.49:757][103]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.42.49:757][103]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.42.49:758][103]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.42.49:758][103]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.42.50:722][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-17.42.50:722][159]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Village
+[2026.03.03-17.42.50:722][159]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.03-17.42.50:722][159]LogWorld: UWorld::CleanupWorld for Village, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-17.42.50:723][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.42.50:725][159]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.03-17.42.50:730][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.42.50:757][159]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-17.42.50:757][159]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2026.03.03-17.42.50:757][159]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2026.03.03-17.42.50:760][159]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2026.03.03-17.42.50:766][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-17.42.50:771][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.03.03-17.42.50:798][160]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2026.03.03-17.43.09:037][117]LogEditorTransaction: Undo Delete current selection
+[2026.03.03-17.43.42:882][930]LogSlate: Window 'Delete widgets' being destroyed
+[2026.03.03-17.43.43:469][961]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.03-17.43.43:574][961]LogFileHelpers: Saving Package: /Game/UI/MainMenu/UI_MainMenu
+[2026.03.03-17.43.43:574][961]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/MainMenu/UI_MainMenu] ([2] browsable assets)...
+[2026.03.03-17.43.43:578][961]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/MainMenu/UI_MainMenu.UI_MainMenu]
+[2026.03.03-17.43.43:578][961]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu/UI_MainMenu]
+[2026.03.03-17.43.43:578][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/UI_MainMenu" FILE="../../../../../../Users/apani/Documents/GitHub/Sprint_4/Content/UI/MainMenu/UI_MainMenu.uasset" SILENT=true
+[2026.03.03-17.43.43:601][961]LogSavePackage: Moving output files for package: /Game/UI/MainMenu/UI_MainMenu
+[2026.03.03-17.43.43:602][961]LogSavePackage: Moving '../../../../../../Users/apani/Documents/GitHub/Sprint_4/Saved/UI_MainMenuC026424246E4296E449E5DA7CC7A683A.tmp' to '../../../../../../Users/apani/Documents/GitHub/Sprint_4/Content/UI/MainMenu/UI_MainMenu.uasset'
+[2026.03.03-17.43.43:612][961]LogFileHelpers: InternalPromptForCheckoutAndSave took 142.394 ms (total: 794.056 ms)
+[2026.03.03-17.43.43:735][961]LogContentValidation: Enabled validators:
+[2026.03.03-17.43.43:735][961]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.03-17.43.43:735][961]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.03-17.43.43:735][961]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.03-17.43.43:735][961]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.03-17.43.43:735][961]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.03-17.43.43:735][961]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.03-17.43.43:735][961]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.03.03-17.43.43:735][961]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.03.03-17.43.43:737][961]AssetCheck: /Game/UI/MainMenu/UI_MainMenu Validating asset
+[2026.03.03-17.43.43:737][961]LogContentValidation: Validated asset counts for 2 validators:
+[2026.03.03-17.43.43:737][961]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.03.03-17.43.43:737][961]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.03.03-17.43.44:493][  6]LogBlueprint: Compiling Blueprint '/Game/UI/MainMenu/UI_MainMenu.UI_MainMenu'
+[2026.03.03-17.43.44:498][  6]LogBlueprint: Warning: [AssetLog] C:\Users\apani\Documents\GitHub\Sprint_4\Content\UI\MainMenu\UI_MainMenu.uasset: [Compiler] On Clicked (BTN_Donate)  does not have a valid matching component!
+[2026.03.03-17.43.44:499][  6]LogBlueprint: Error: [AssetLog] C:\Users\apani\Documents\GitHub\Sprint_4\Content\UI\MainMenu\UI_MainMenu.uasset: [Compiler] Could not find a function named "Confirm New Game" in 'UI_MainMenu_C'.
+Make sure 'UI_MainMenu_C' has been compiled for  Confirm New Game
+[2026.03.03-17.43.44:574][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.03.03-17.43.56:083][661]LogBlueprint: Compiling Blueprint '/Game/UI/MainMenu/UI_MainMenu.UI_MainMenu'
+[2026.03.03-17.43.56:154][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.03.03-17.44.23:729][290]LogBlueprint: Compiling Blueprint '/Game/UI/MainMenu/UI_MainMenu.UI_MainMenu'
+[2026.03.03-17.44.23:781][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.03.03-17.44.27:891][530]LogBlueprint: Compiling Blueprint '/Game/UI/MainMenu/UI_MainMenu.UI_MainMenu'
+[2026.03.03-17.44.27:944][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.03.03-17.44.30:135][654]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.03-17.44.30:240][654]LogFileHelpers: Saving Package: /Game/UI/MainMenu/UI_MainMenu
+[2026.03.03-17.44.30:241][654]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/MainMenu/UI_MainMenu] ([2] browsable assets)...
+[2026.03.03-17.44.30:245][654]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/MainMenu/UI_MainMenu.UI_MainMenu]
+[2026.03.03-17.44.30:245][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu/UI_MainMenu]
+[2026.03.03-17.44.30:245][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/UI_MainMenu" FILE="../../../../../../Users/apani/Documents/GitHub/Sprint_4/Content/UI/MainMenu/UI_MainMenu.uasset" SILENT=true
+[2026.03.03-17.44.30:260][654]LogSavePackage: Moving output files for package: /Game/UI/MainMenu/UI_MainMenu
+[2026.03.03-17.44.30:260][654]LogSavePackage: Moving '../../../../../../Users/apani/Documents/GitHub/Sprint_4/Saved/UI_MainMenuDA42680246B721EA18F63082508E8C77.tmp' to '../../../../../../Users/apani/Documents/GitHub/Sprint_4/Content/UI/MainMenu/UI_MainMenu.uasset'
+[2026.03.03-17.44.30:270][654]LogFileHelpers: InternalPromptForCheckoutAndSave took 135.325 ms (total: 929.381 ms)
+[2026.03.03-17.44.30:399][654]LogContentValidation: Enabled validators:
+[2026.03.03-17.44.30:399][654]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.03-17.44.30:399][654]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.03-17.44.30:399][654]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.03-17.44.30:399][654]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.03-17.44.30:399][654]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.03-17.44.30:399][654]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.03-17.44.30:399][654]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.03.03-17.44.30:399][654]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.03.03-17.44.30:401][654]AssetCheck: /Game/UI/MainMenu/UI_MainMenu Validating asset
+[2026.03.03-17.44.30:401][654]LogContentValidation: Validated asset counts for 2 validators:
+[2026.03.03-17.44.30:401][654]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.03.03-17.44.30:401][654]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.03.03-17.44.31:507][720]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.03-17.44.31:517][720]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.03.03-17.44.31:517][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.03-17.44.31:517][720]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2026.03.03-17.44.31:541][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023977s)
+[2026.03.03-17.44.31:541][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.024023s)
+[2026.03.03-17.44.31:568][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.03.03-17.44.31:573][720]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2026.03.03-17.44.31:575][720]LogPlayLevel: PIE: World Init took: (0.001862s)
+[2026.03.03-17.44.31:575][720]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2026.03.03-17.44.31:575][720]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.03-17.44.31:575][720]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.03-17.44.31:575][720]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.03-17.44.31:575][720]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.03-17.44.31:575][720]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.03-17.44.31:575][720]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.03-17.44.31:575][720]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.03-17.44.31:575][720]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.03-17.44.31:575][720]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.03-17.44.31:575][720]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.03-17.44.31:575][720]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.03-17.44.31:575][720]LogAudio: Display: Audio Modulation Plugin: DefaultModulationPlugin
+[2026.03.03-17.44.31:577][720]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.03-17.44.31:579][720]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Speaker (Realtek(R) Audio)'
+[2026.03.03-17.44.31:579][720]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone Array (AMD Audio Device)'
+[2026.03.03-17.44.31:580][720]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Speaker (Realtek(R) Audio)'
+[2026.03.03-17.44.31:580][720]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone Array (AMD Audio Device)'
+[2026.03.03-17.44.31:581][720]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Speaker (Realtek(R) Audio)'
+[2026.03.03-17.44.31:581][720]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone Array (AMD Audio Device)'
+[2026.03.03-17.44.31:649][720]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2026.03.03-17.44.31:650][720]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.03-17.44.31:650][720]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.03-17.44.31:650][720]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.03-17.44.31:650][720]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2026.03.03-17.44.31:650][720]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2026.03.03-17.44.31:652][720]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2026.03.03-17.44.31:652][720]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2026.03.03-17.44.31:652][720]LogInit: FAudioDevice initialized with ID 12.
+[2026.03.03-17.44.31:652][720]LogAudio: Display: Audio Device (ID: 12) registered with world 'MainMenu'.
+[2026.03.03-17.44.31:652][720]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2026.03.03-17.44.31:652][720]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2026.03.03-17.44.31:656][720]LogLoad: Game class is 'BP_MainMenuGM_C'
+[2026.03.03-17.44.31:658][720]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2026.03.03-18.44.31
+[2026.03.03-17.44.31:658][720]LogWorld: Bringing up level for play took: 0.001581
+[2026.03.03-17.44.31:661][720]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2026.03.03-17.44.32:118][720]LogScript: Warning: Script Msg: External UI not supported by the current online subsystem
+[2026.03.03-17.44.32:118][720]LogScript: Warning: Script Msg called by: BP_MainMenuGM_C /Game/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.BP_MainMenuGM_C_0
+[2026.03.03-17.44.32:118][720]PIE: Server logged in
+[2026.03.03-17.44.32:120][720]PIE: Play in editor total start time 0,607 seconds.
+[2026.03.03-17.44.32:156][721]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.03-17.44.33:624][807]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_Layer_Menu_C_0]
+[2026.03.03-17.44.33:624][807]LogUIActionRouter: Display: [User 0] No focus target for leaf-most node [UI_Layer_Menu_C_0], and the widget isn't focusable - focusing the game viewport.
+[2026.03.03-17.44.33:829][819]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_Prompt_C_0]
+[2026.03.03-17.44.33:829][819]LogUIActionRouter: Display: [User 0] Focused desired target BTN_Neg
+[2026.03.03-17.44.35:158][899]Cmd: quit
+[2026.03.03-17.44.35:162][899]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_Layer_Menu_C_0]
+[2026.03.03-17.44.35:163][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-17.44.35:163][899]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenu
+[2026.03.03-17.44.35:164][899]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.03-17.44.35:214][899]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-17.44.35:214][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.44.35:215][899]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.03-17.44.35:221][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.44.35:250][899]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-17.44.35:250][899]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2026.03.03-17.44.35:274][899]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=4
+[2026.03.03-17.44.35:276][899]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
+[2026.03.03-17.44.35:281][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-17.44.35:285][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.03.03-17.44.35:351][900]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2026.03.03-17.44.36:649][978]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.03-17.44.36:659][978]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.03.03-17.44.36:659][978]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.03-17.44.36:703][978]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2026.03.03-17.44.36:725][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021941s)
+[2026.03.03-17.44.36:726][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.021996s)
+[2026.03.03-17.44.36:752][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.03.03-17.44.36:756][978]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2026.03.03-17.44.36:758][978]LogPlayLevel: PIE: World Init took: (0.001784s)
+[2026.03.03-17.44.36:758][978]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2026.03.03-17.44.36:758][978]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.03-17.44.36:758][978]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.03-17.44.36:758][978]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.03-17.44.36:758][978]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.03-17.44.36:758][978]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.03-17.44.36:758][978]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.03-17.44.36:758][978]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.03-17.44.36:758][978]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.03-17.44.36:758][978]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.03-17.44.36:758][978]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.03-17.44.36:758][978]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.03-17.44.36:758][978]LogAudio: Display: Audio Modulation Plugin: DefaultModulationPlugin
+[2026.03.03-17.44.36:760][978]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.03-17.44.36:762][978]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Speaker (Realtek(R) Audio)'
+[2026.03.03-17.44.36:762][978]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone Array (AMD Audio Device)'
+[2026.03.03-17.44.36:762][978]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Speaker (Realtek(R) Audio)'
+[2026.03.03-17.44.36:764][978]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone Array (AMD Audio Device)'
+[2026.03.03-17.44.36:764][978]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Speaker (Realtek(R) Audio)'
+[2026.03.03-17.44.36:764][978]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone Array (AMD Audio Device)'
+[2026.03.03-17.44.36:832][978]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2026.03.03-17.44.36:832][978]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.03-17.44.36:832][978]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.03-17.44.36:832][978]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.03-17.44.36:832][978]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2026.03.03-17.44.36:832][978]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2026.03.03-17.44.36:835][978]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2026.03.03-17.44.36:835][978]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2026.03.03-17.44.36:835][978]LogInit: FAudioDevice initialized with ID 13.
+[2026.03.03-17.44.36:835][978]LogAudio: Display: Audio Device (ID: 13) registered with world 'MainMenu'.
+[2026.03.03-17.44.36:835][978]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2026.03.03-17.44.36:835][978]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2026.03.03-17.44.36:839][978]LogLoad: Game class is 'BP_MainMenuGM_C'
+[2026.03.03-17.44.36:841][978]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2026.03.03-18.44.36
+[2026.03.03-17.44.36:841][978]LogWorld: Bringing up level for play took: 0.001529
+[2026.03.03-17.44.36:844][978]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2026.03.03-17.44.37:309][978]LogScript: Warning: Script Msg: External UI not supported by the current online subsystem
+[2026.03.03-17.44.37:310][978]LogScript: Warning: Script Msg called by: BP_MainMenuGM_C /Game/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.BP_MainMenuGM_C_0
+[2026.03.03-17.44.37:310][978]PIE: Server logged in
+[2026.03.03-17.44.37:311][978]PIE: Play in editor total start time 0,657 seconds.
+[2026.03.03-17.44.37:352][979]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.03-17.44.39:377][ 99]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Village"
+[2026.03.03-17.44.39:377][ 99]LogNet: Browse: /Game/Village
+[2026.03.03-17.44.39:377][ 99]LogLoad: LoadMap: /Game/Village
+[2026.03.03-17.44.39:377][ 99]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenu
+[2026.03.03-17.44.39:378][ 99]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.03-17.44.39:379][ 99]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-17.44.39:380][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.44.39:409][ 99]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-17.44.39:411][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.03.03-17.44.39:414][ 99]LogStreaming: Display: FlushAsyncLoading(520): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.03-17.44.39:455][ 99]LogAudio: Display: Audio Device (ID: 13) registered with world 'Village'.
+[2026.03.03-17.44.39:455][ 99]LogChaosDD: Creating Chaos Debug Draw Scene for world Village
+[2026.03.03-17.44.39:456][ 99]LogPlayLevel: PIE: World Init took: (0.001915s)
+[2026.03.03-17.44.39:456][ 99]LogLoad: Game class is 'BP_GM_C'
+[2026.03.03-17.44.39:996][ 99]LogWorld: Bringing World /Game/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2026.03.03-18.44.39
+[2026.03.03-17.44.39:996][ 99]LogWorld: Bringing up level for play took: 0.539152
+[2026.03.03-17.44.39:997][ 99]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.03.03-17.44.40:525][ 99]LogViewport: Display: Player bShowMouseCursor Changed, True -> False
+[2026.03.03-17.44.40:525][ 99]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.03.03-17.44.40:527][ 99]LogLoad: Took 1.148531 seconds to LoadMap(/Game/Village)
+[2026.03.03-17.44.40:527][ 99]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Village
+[2026.03.03-17.44.40:540][ 99]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.03-17.44.40:552][100]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.44.40:553][100]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.44.40:553][100]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.44.40:553][100]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.44.40:554][100]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.44.40:554][100]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.44.45:362][388]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2026.03.03-17.45.15:853][217]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2026.03.03-17.45.16:059][229]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_Pause_C_0]
+[2026.03.03-17.45.16:059][229]LogUIActionRouter: Display: [User 0] Focused desired target BTN_Resume
+[2026.03.03-17.45.17:492][315]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 670.489258
+[2026.03.03-17.45.17:727][329]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.03-17.45.17:727][329]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 670.706299, Update Interval: 320.770294
+[2026.03.03-17.45.17:786][333]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/MainMenu"
+[2026.03.03-17.45.17:786][333]LogNet: Browse: /Game/MainMenu
+[2026.03.03-17.45.17:786][333]LogLoad: LoadMap: /Game/MainMenu
+[2026.03.03-17.45.17:786][333]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Village
+[2026.03.03-17.45.17:786][333]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.03-17.45.17:788][333]LogWorld: UWorld::CleanupWorld for Village, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-17.45.17:790][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.45.17:857][333]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-17.45.17:862][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.03.03-17.45.17:866][333]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2026.03.03-17.45.17:889][333]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022503s)
+[2026.03.03-17.45.17:889][333]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.022573s)
+[2026.03.03-17.45.17:889][333]LogAudio: Display: Audio Device (ID: 13) registered with world 'MainMenu'.
+[2026.03.03-17.45.17:889][333]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2026.03.03-17.45.17:891][333]LogPlayLevel: PIE: World Init took: (0.001899s)
+[2026.03.03-17.45.17:891][333]LogLoad: Game class is 'BP_MainMenuGM_C'
+[2026.03.03-17.45.17:893][333]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2026.03.03-18.45.17
+[2026.03.03-17.45.17:893][333]LogWorld: Bringing up level for play took: 0.001500
+[2026.03.03-17.45.17:893][333]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.03.03-17.45.18:365][333]LogScript: Warning: Script Msg: External UI not supported by the current online subsystem
+[2026.03.03-17.45.18:365][333]LogScript: Warning: Script Msg called by: BP_MainMenuGM_C /Game/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.BP_MainMenuGM_C_0
+[2026.03.03-17.45.18:365][333]LogLoad: Took 0.579223 seconds to LoadMap(/Game/UEDPIE_0_MainMenu)
+[2026.03.03-17.45.18:365][333]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/UEDPIE_0_MainMenu
+[2026.03.03-17.45.18:370][333]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.03-17.45.18:373][333]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_MainMenu_C_0]
+[2026.03.03-17.45.18:373][333]LogUIActionRouter: Display: [User 0] Focused desired target BTN_NewGame
+[2026.03.03-17.45.20:432][455]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_Layer_Menu_C_1]
+[2026.03.03-17.45.20:432][455]LogUIActionRouter: Display: [User 0] No focus target for leaf-most node [UI_Layer_Menu_C_1], and the widget isn't focusable - focusing the game viewport.
+[2026.03.03-17.45.20:620][466]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_Prompt_C_0]
+[2026.03.03-17.45.20:620][466]LogUIActionRouter: Display: [User 0] Focused desired target BTN_Neg
+[2026.03.03-17.45.21:364][511]Cmd: quit
+[2026.03.03-17.45.21:364][511]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_Layer_Menu_C_1]
+[2026.03.03-17.45.21:366][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-17.45.21:366][511]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenu
+[2026.03.03-17.45.21:366][511]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.03-17.45.21:405][511]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-17.45.21:406][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.45.21:407][511]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.03-17.45.21:413][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.45.21:441][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-17.45.21:441][511]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2026.03.03-17.45.21:464][511]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=4
+[2026.03.03-17.45.21:467][511]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=2
+[2026.03.03-17.45.21:478][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.03.03-17.45.21:546][512]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2026.03.03-17.45.57:682][249]LogBlueprint: Compiling Blueprint '/Game/UI/MainMenu/UI_MainMenu.UI_MainMenu'
+[2026.03.03-17.45.57:752][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.03.03-17.46.02:230][507]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.03-17.46.02:337][507]LogFileHelpers: Saving Package: /Game/UI/MainMenu/UI_MainMenu
+[2026.03.03-17.46.02:337][507]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/MainMenu/UI_MainMenu] ([2] browsable assets)...
+[2026.03.03-17.46.02:342][507]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/MainMenu/UI_MainMenu.UI_MainMenu]
+[2026.03.03-17.46.02:342][507]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu/UI_MainMenu]
+[2026.03.03-17.46.02:342][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/UI_MainMenu" FILE="../../../../../../Users/apani/Documents/GitHub/Sprint_4/Content/UI/MainMenu/UI_MainMenu.uasset" SILENT=true
+[2026.03.03-17.46.02:357][507]LogSavePackage: Moving output files for package: /Game/UI/MainMenu/UI_MainMenu
+[2026.03.03-17.46.02:357][507]LogSavePackage: Moving '../../../../../../Users/apani/Documents/GitHub/Sprint_4/Saved/UI_MainMenu9B5DAB964449C54540849B97187ED2CC.tmp' to '../../../../../../Users/apani/Documents/GitHub/Sprint_4/Content/UI/MainMenu/UI_MainMenu.uasset'
+[2026.03.03-17.46.02:370][507]LogFileHelpers: InternalPromptForCheckoutAndSave took 139.972 ms (total: 1.06 sec)
+[2026.03.03-17.46.02:493][507]LogContentValidation: Enabled validators:
+[2026.03.03-17.46.02:493][507]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.03-17.46.02:493][507]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.03-17.46.02:493][507]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.03-17.46.02:493][507]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.03-17.46.02:493][507]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.03-17.46.02:493][507]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.03-17.46.02:493][507]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.03.03-17.46.02:493][507]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.03.03-17.46.02:494][507]AssetCheck: /Game/UI/MainMenu/UI_MainMenu Validating asset
+[2026.03.03-17.46.02:494][507]LogContentValidation: Validated asset counts for 2 validators:
+[2026.03.03-17.46.02:494][507]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.03.03-17.46.02:494][507]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.03.03-17.46.03:081][542]LogBlueprint: Compiling Blueprint '/Game/UI/MainMenu/UI_MainMenu.UI_MainMenu'
+[2026.03.03-17.46.03:133][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.03.03-17.46.04:099][589]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.03-17.46.04:109][589]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.03.03-17.46.04:110][589]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.03-17.46.04:146][589]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2026.03.03-17.46.04:167][589]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021821s)
+[2026.03.03-17.46.04:167][589]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.021877s)
+[2026.03.03-17.46.04:195][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.03.03-17.46.04:199][589]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2026.03.03-17.46.04:200][589]LogPlayLevel: PIE: World Init took: (0.001795s)
+[2026.03.03-17.46.04:200][589]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2026.03.03-17.46.04:201][589]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.03-17.46.04:201][589]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.03-17.46.04:201][589]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.03-17.46.04:201][589]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.03-17.46.04:201][589]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.03-17.46.04:201][589]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.03-17.46.04:201][589]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.03-17.46.04:201][589]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.03-17.46.04:201][589]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.03-17.46.04:201][589]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.03-17.46.04:201][589]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.03-17.46.04:201][589]LogAudio: Display: Audio Modulation Plugin: DefaultModulationPlugin
+[2026.03.03-17.46.04:203][589]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.03-17.46.04:206][589]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Speaker (Realtek(R) Audio)'
+[2026.03.03-17.46.04:206][589]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone Array (AMD Audio Device)'
+[2026.03.03-17.46.04:206][589]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Speaker (Realtek(R) Audio)'
+[2026.03.03-17.46.04:207][589]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone Array (AMD Audio Device)'
+[2026.03.03-17.46.04:207][589]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Speaker (Realtek(R) Audio)'
+[2026.03.03-17.46.04:207][589]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone Array (AMD Audio Device)'
+[2026.03.03-17.46.04:273][589]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2026.03.03-17.46.04:273][589]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.03-17.46.04:273][589]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.03-17.46.04:273][589]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.03-17.46.04:275][589]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2026.03.03-17.46.04:275][589]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2026.03.03-17.46.04:277][589]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2026.03.03-17.46.04:277][589]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2026.03.03-17.46.04:277][589]LogInit: FAudioDevice initialized with ID 14.
+[2026.03.03-17.46.04:277][589]LogAudio: Display: Audio Device (ID: 14) registered with world 'MainMenu'.
+[2026.03.03-17.46.04:277][589]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2026.03.03-17.46.04:277][589]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2026.03.03-17.46.04:281][589]LogLoad: Game class is 'BP_MainMenuGM_C'
+[2026.03.03-17.46.04:283][589]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2026.03.03-18.46.04
+[2026.03.03-17.46.04:283][589]LogWorld: Bringing up level for play took: 0.001549
+[2026.03.03-17.46.04:285][589]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2026.03.03-17.46.04:750][589]LogScript: Warning: Script Msg: External UI not supported by the current online subsystem
+[2026.03.03-17.46.04:750][589]LogScript: Warning: Script Msg called by: BP_MainMenuGM_C /Game/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.BP_MainMenuGM_C_0
+[2026.03.03-17.46.04:751][589]PIE: Server logged in
+[2026.03.03-17.46.04:753][589]PIE: Play in editor total start time 0,647 seconds.
+[2026.03.03-17.46.04:788][590]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.03-17.46.24:697][783]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Village"
+[2026.03.03-17.46.24:697][783]LogNet: Browse: /Game/Village
+[2026.03.03-17.46.24:697][783]LogLoad: LoadMap: /Game/Village
+[2026.03.03-17.46.24:697][783]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenu
+[2026.03.03-17.46.24:697][783]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.03-17.46.24:698][783]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-17.46.24:700][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.46.24:727][783]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-17.46.24:730][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.03.03-17.46.24:733][783]LogStreaming: Display: FlushAsyncLoading(521): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.03-17.46.24:776][783]LogAudio: Display: Audio Device (ID: 14) registered with world 'Village'.
+[2026.03.03-17.46.24:776][783]LogChaosDD: Creating Chaos Debug Draw Scene for world Village
+[2026.03.03-17.46.24:778][783]LogPlayLevel: PIE: World Init took: (0.001821s)
+[2026.03.03-17.46.24:778][783]LogLoad: Game class is 'BP_GM_C'
+[2026.03.03-17.46.25:299][783]LogWorld: Bringing World /Game/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2026.03.03-18.46.25
+[2026.03.03-17.46.25:299][783]LogWorld: Bringing up level for play took: 0.520711
+[2026.03.03-17.46.25:300][783]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.03.03-17.46.25:821][783]LogViewport: Display: Player bShowMouseCursor Changed, True -> False
+[2026.03.03-17.46.25:821][783]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.03.03-17.46.25:822][783]LogLoad: Took 1.124572 seconds to LoadMap(/Game/Village)
+[2026.03.03-17.46.25:822][783]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Village
+[2026.03.03-17.46.25:835][783]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.03-17.46.25:847][784]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.46.25:848][784]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.46.25:849][784]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.46.25:849][784]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.46.25:849][784]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.46.25:850][784]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.46.28:722][953]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2026.03.03-17.46.30:655][ 69]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2026.03.03-17.46.30:860][ 81]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_Pause_C_0]
+[2026.03.03-17.46.30:860][ 81]LogUIActionRouter: Display: [User 0] Focused desired target BTN_Resume
+[2026.03.03-17.46.32:671][190]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/MainMenu"
+[2026.03.03-17.46.32:671][190]LogNet: Browse: /Game/MainMenu
+[2026.03.03-17.46.32:671][190]LogLoad: LoadMap: /Game/MainMenu
+[2026.03.03-17.46.32:671][190]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Village
+[2026.03.03-17.46.32:671][190]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.03-17.46.32:673][190]LogWorld: UWorld::CleanupWorld for Village, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-17.46.32:674][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.46.32:728][190]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-17.46.32:732][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.03.03-17.46.32:736][190]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2026.03.03-17.46.32:758][190]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022222s)
+[2026.03.03-17.46.32:758][190]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.022290s)
+[2026.03.03-17.46.32:758][190]LogAudio: Display: Audio Device (ID: 14) registered with world 'MainMenu'.
+[2026.03.03-17.46.32:758][190]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2026.03.03-17.46.32:760][190]LogPlayLevel: PIE: World Init took: (0.002007s)
+[2026.03.03-17.46.32:760][190]LogLoad: Game class is 'BP_MainMenuGM_C'
+[2026.03.03-17.46.32:762][190]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2026.03.03-18.46.32
+[2026.03.03-17.46.32:762][190]LogWorld: Bringing up level for play took: 0.001602
+[2026.03.03-17.46.32:763][190]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.03.03-17.46.33:231][190]LogScript: Warning: Script Msg: External UI not supported by the current online subsystem
+[2026.03.03-17.46.33:231][190]LogScript: Warning: Script Msg called by: BP_MainMenuGM_C /Game/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.BP_MainMenuGM_C_0
+[2026.03.03-17.46.33:231][190]LogLoad: Took 0.560517 seconds to LoadMap(/Game/UEDPIE_0_MainMenu)
+[2026.03.03-17.46.33:231][190]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/UEDPIE_0_MainMenu
+[2026.03.03-17.46.33:237][190]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.03-17.46.33:239][190]LogUIActionRouter: Display: Applying input config for leaf-most node [UI_MainMenu_C_0]
+[2026.03.03-17.46.33:239][190]LogUIActionRouter: Display: [User 0] Focused desired target BTN_NewGame
+[2026.03.03-17.46.35:326][315]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Village"
+[2026.03.03-17.46.35:327][315]LogNet: Browse: /Game/Village
+[2026.03.03-17.46.35:327][315]LogLoad: LoadMap: /Game/Village
+[2026.03.03-17.46.35:327][315]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenu
+[2026.03.03-17.46.35:327][315]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.03-17.46.35:328][315]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-17.46.35:329][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.46.35:357][315]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-17.46.35:360][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.03.03-17.46.35:363][315]LogStreaming: Display: FlushAsyncLoading(522): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.03-17.46.35:405][315]LogAudio: Display: Audio Device (ID: 14) registered with world 'Village'.
+[2026.03.03-17.46.35:405][315]LogChaosDD: Creating Chaos Debug Draw Scene for world Village
+[2026.03.03-17.46.35:406][315]LogPlayLevel: PIE: World Init took: (0.001835s)
+[2026.03.03-17.46.35:406][315]LogLoad: Game class is 'BP_GM_C'
+[2026.03.03-17.46.35:926][315]LogWorld: Bringing World /Game/UEDPIE_0_Village.Village up for play (max tick rate 60) at 2026.03.03-18.46.35
+[2026.03.03-17.46.35:926][315]LogWorld: Bringing up level for play took: 0.518253
+[2026.03.03-17.46.35:927][315]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.03.03-17.46.36:463][315]LogViewport: Display: Player bShowMouseCursor Changed, True -> False
+[2026.03.03-17.46.36:464][315]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CaptureDuringMouseDown
+[2026.03.03-17.46.36:464][315]LogLoad: Took 1.137399 seconds to LoadMap(/Game/Village)
+[2026.03.03-17.46.36:464][315]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Village
+[2026.03.03-17.46.36:477][315]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.03-17.46.36:489][316]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.46.36:490][316]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.46.36:491][316]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.46.36:491][316]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.46.36:492][316]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.46.36:492][316]LogStreamableManager: Display: RequestAsyncLoad() called with empty or only null assets!
+[2026.03.03-17.46.41:127][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-17.46.41:128][590]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Village
+[2026.03.03-17.46.41:128][590]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.03-17.46.41:129][590]LogWorld: UWorld::CleanupWorld for Village, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-17.46.41:130][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.46.41:131][590]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.03-17.46.41:136][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-17.46.41:167][590]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-17.46.41:168][590]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2026.03.03-17.46.41:168][590]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=4
+[2026.03.03-17.46.41:169][590]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=2
+[2026.03.03-17.46.41:177][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-17.46.41:181][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.03.03-17.46.41:210][591]LogPlayLevel: Display: Destroying online subsystem :Context_18
