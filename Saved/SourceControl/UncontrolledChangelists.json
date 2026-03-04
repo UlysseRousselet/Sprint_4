@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/apani/Documents/GitHub/Sprint_4/Content/Environment/Environment/Materials/MI_Water.uasset"
+				"C:/Users/apani/Documents/GitHub/Sprint_4/Content/Environment/Environment/Materials/MI_Water.uasset",
+				"C:/Users/apani/Documents/GitHub/Sprint_4/Content/UI/MainMenu/UI_MainMenu.uasset",
+				"C:/Users/apani/Documents/GitHub/Sprint_4/Content/Blueprint/Interactable/Extras/DT_Buidables.uasset"
 			]
 		}
 	]
